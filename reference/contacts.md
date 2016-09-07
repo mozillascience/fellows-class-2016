@@ -14,13 +14,13 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 ### Zannah
 
-* **title:** Instructional Strategist, Mozilla Science Lab
+* **title:** Learning Strategist, Mozilla Science Lab
 * **email:** zannah@mozillafoundation.org
 * **irc:**
 * **skype:** 
 * **github:** [@zee-moz](https://github.com/zee-moz)
 * **twitter:** [@zannahlou](https://twitter.com/zannahlou)
-* **areas of expertise:** curriculum design and Xfiles :alien:
+* **areas of expertise:** curriculum development and Xfiles :alien:
 
 ### Aurelia
 
@@ -44,7 +44,7 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 ### Arliss
 
-* **title:** Metrics and Data Analyst, Mozilla Science Lab
+* **title:** Metrics and Data Analyst, Mozilla Science Foundation
 * **email:** arliss@mozillafoundation.org
 * **irc:** arlissc
 * **skype:** arliss.collins99
