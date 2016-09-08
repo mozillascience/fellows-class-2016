@@ -174,7 +174,8 @@ You’ll wrap-up your fellowship by packaging your project(s) for launch and pub
 * Update [Meta-résumé](https://github.com/mozillascience/fellows-class-2015/blob/master/test/1-resume.md)
 * Choose launch data and prioritize final features
 * Revisit [Goal-setting]() from onboarding and first month
-	
+
+
 	Events : Global Sprint, Graduation
 	
 	Calls : Wednesday 6/14 Retrospective call, 13:00 EST
