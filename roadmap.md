@@ -53,9 +53,10 @@ You’ll be doing project research and development planning exercises and contri
 * [Blog response on intro to msl, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-intro_interview.md)
 
 	> **Events** : Onboarding
+
 	> **Calls** : Wednesday 9/21, 13:00 EST
 
-####October:
+###October:
 
 **Exercises** :
 	
@@ -64,10 +65,12 @@ You’ll be doing project research and development planning exercises and contri
 * [Blog response on Community Call + Ideal Theme](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 
 	> **Events** : Mozfest
+
 	> **Calls** : Wednesday 10/5 + 10/19, 11:00 EST
+
 	> **Community Call** : 10/13, 11:00 EST
 
-####November:  
+###November:  
 
 **Exercises** :
 	
@@ -76,13 +79,14 @@ You’ll be doing project research and development planning exercises and contri
 * [Blog response on roadmapping](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
 	> **Events** : OpenCon
+
 	> **Calls** : Wednesday 11/2 + 11/16 + 11/30, 13:00 EST
 
 ###PROTOTYPE (December 2016 - March 2017)
 
 You’ll be working on testing and building out your proposed project(s) throughout the PROTOTYPE phase.
 
-####December: 
+###December: 
 
 **Exercises** :
 	
@@ -90,9 +94,10 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
 	> **Calls** : Wednesday 12/14 + 12/28 (holidays contingent), 13:00 EST
+
 	> **Community Call** : 12/15, 11:00 EST
 
-####January: 
+###January: 
 
 **Exercises** :
 	
@@ -103,7 +108,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 	> **Calls** : Wednesday 1/11 + 1/25, 13:00 EST
 
-####February: 
+###February: 
 
 **Exercises** :
 	
@@ -116,7 +121,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 	> **Community Call** : 2/9, 11:00 EST
 
-####March:
+###March:
 
 **Exercises** :
 	
@@ -132,7 +137,7 @@ You’ll be working on testing and building out your proposed project(s) through
 
 You’ll be identify communities in which you can test and showcase your prototypes and get feedback that will inform pre-launch polishing in the TEST/SHARE phase.
 
-####April: 
+###April: 
 
 **Exercises** :
 	
@@ -146,7 +151,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 	
 	> **Community Call** : 4/13, 11:00 EST
 
-####May: 
+###May: 
 
 **Exercises** :
 
@@ -160,7 +165,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 
 You’ll wrap-up your fellowship by packaging your project(s) for launch and publicity in July during the REFINE phase.
 
-####June: 
+###June: 
 
 **Exercises** :
 
