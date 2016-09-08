@@ -60,15 +60,16 @@ You’ll be doing project research and development planning exercises and contri
 
 **Exercises** :
 	
-	* [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be 	presented on Oct 13 call)
-	* [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md)
-	* [Blog response on Community Call + Ideal Theme](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
+* [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be 	presented on Oct 13 call)
+* [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md)
+* [Blog response on Community Call + Ideal Theme](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	**EVENTS** : Mozfest
+
+	> Events : Mozfest
 	
-	**CALLS** : Wednesday 10/5 + 10/19, 11:00 EST
+	> Calls : Wednesday 10/5 + 10/19, 11:00 EST
 	
-	**COMMUNITY CALL**: 10/13, 11:00 EST
+	> Community Call: 10/13, 11:00 EST
 
 ####November:  
 
@@ -129,7 +130,7 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Project surveys](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_surveys.md)
 * [Blog response on impact of project(s)](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	**EVENTS** : GET Conf, OpenVis, RightsCon
+	Events : GET Conf, OpenVis, RightsCon
 	
 	Calls : Wednesday 3/8 + 3/22, 13:00 EST
 
