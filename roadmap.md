@@ -65,7 +65,7 @@ You’ll be doing project research and development planning exercises and contri
 * [Blog response on Community Call + Ideal Theme](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
 
-	> Events : Mozfest
+	> **Events** : Mozfest
 	
 	> Calls : Wednesday 10/5 + 10/19, 11:00 EST
 	
