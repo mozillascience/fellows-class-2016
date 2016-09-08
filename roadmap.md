@@ -45,16 +45,15 @@ The phase deliverables and work periods are as follows (deliverables are due on 
 
 You’ll be doing project research and development planning exercises and contributing to the MSL blog throughout the EXPLORE phase.
 
-####September: 
+###September: 
 
 **Exercises** :
 
 * [Goal-setting]()
 * [Blog response on intro to msl, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-intro_interview.md)
 
-	Events : Onboarding
-
-	Calls : Wednesday 9/21, 13:00 EST
+	> **Events** : Onboarding
+	> **Calls** : Wednesday 9/21, 13:00 EST
 
 ####October:
 
@@ -63,13 +62,10 @@ You’ll be doing project research and development planning exercises and contri
 * [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be 	presented on Oct 13 call)
 * [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md)
 * [Blog response on Community Call + Ideal Theme](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
-	
 
 	> **Events** : Mozfest
-	
-	> Calls : Wednesday 10/5 + 10/19, 11:00 EST
-	
-	> Community Call: 10/13, 11:00 EST
+	> **Calls** : Wednesday 10/5 + 10/19, 11:00 EST
+	> **Community Call** : 10/13, 11:00 EST
 
 ####November:  
 
@@ -79,10 +75,8 @@ You’ll be doing project research and development planning exercises and contri
 * [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-roadmapping.md)
 * [Blog response on roadmapping](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	
-	Events : OpenCon
-	
-	Calls : Wednesday 11/2 + 11/16 + 11/30, 13:00 EST
+	> **Events** : OpenCon
+	> **Calls** : Wednesday 11/2 + 11/16 + 11/30, 13:00 EST
 
 ###PROTOTYPE (December 2016 - March 2017)
 
@@ -95,9 +89,8 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Project schedule](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_schedule.md)
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	Calls : Wednesday 12/14 + 12/28 (holidays contingent), 13:00 EST
-	
-	Community Call : 12/15, 11:00 EST
+	> **Calls** : Wednesday 12/14 + 12/28 (holidays contingent), 13:00 EST
+	> **Community Call** : 12/15, 11:00 EST
 
 ####January: 
 
@@ -108,7 +101,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	* [Week/Sprint Exit Survey](http://goo.gl/forms/I6ZRdpvWs7)
 * [Blog response on idea + users for project(s)](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	Calls : Wednesday 1/11 + 1/25, 13:00 EST
+	> **Calls** : Wednesday 1/11 + 1/25, 13:00 EST
 
 ####February: 
 
@@ -117,11 +110,11 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Project surveys](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_surveys.md)
 * [Blog response on WOW](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	Events : Work week + WOW
+	> **Events** : Work week + WOW
 	
-	Calls : Wednesday 2/8 + 2/22, 13:00 EST
+	> **Calls** : Wednesday 2/8 + 2/22, 13:00 EST
 	
-	Community Call: 2/9, 11:00 EST
+	> **Community Call** : 2/9, 11:00 EST
 
 ####March:
 
@@ -130,9 +123,9 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Project surveys](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_surveys.md)
 * [Blog response on impact of project(s)](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	Events : GET Conf, OpenVis, RightsCon
+	> **Events** : GET Conf, OpenVis, RightsCon
 	
-	Calls : Wednesday 3/8 + 3/22, 13:00 EST
+	> **Calls** : Wednesday 3/8 + 3/22, 13:00 EST
 
 
 ###TEST/SHARE (April 2017 - May 2017)
@@ -147,11 +140,11 @@ You’ll be identify communities in which you can test and showcase your prototy
 * [Event Planning or mini-WOW](https://github.com/mozillascience/fellows-class-2015/blob/master/test/4-event.md)
 * [Blog response on documentation](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
-	Events : Work week + Open Web Sprint
+	> **Events** : Work week + Open Web Sprint
 	
-	Calls : Wednesday 4/5 + 4/19, 13:00 EST
+	> **Calls** : Wednesday 4/5 + 4/19, 13:00 EST
 	
-	Community Call: 4/13, 11:00 EST
+	> **Community Call** : 4/13, 11:00 EST
 
 ####May: 
 
@@ -160,7 +153,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 * [Sustainability Plan](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-sustainability_plan.md)
 * [Blog response on fellowship retrospective](https://github.com/mozillascience/fellows-class-2015/blob/master/test/3-retro-blogs.md)
 
-	Calls : Wednesday 5/3 + 5/17 + 5/31, 13:00 EST
+	> **Calls** : Wednesday 5/3 + 5/17 + 5/31, 13:00 EST
 
 
 ###REFINE (June 2017)
@@ -175,12 +168,11 @@ You’ll wrap-up your fellowship by packaging your project(s) for launch and pub
 * Choose launch data and prioritize final features
 * Revisit [Goal-setting]() from onboarding and first month
 
-
-	Events : Global Sprint, Graduation
+	> **Events** : Global Sprint, Graduation
 	
-	Calls : Wednesday 6/14 Retrospective call, 13:00 EST
+	> **Calls** : Wednesday 6/14 Retrospective call, 13:00 EST
 
-	Community Calls: 6/9, 11:00 EST
+	> **Community Calls** : 6/9, 11:00 EST
 
 ###LAUNCH (July 2017)
 
