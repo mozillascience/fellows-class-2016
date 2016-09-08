@@ -1,10 +1,10 @@
-##Welcome to the 2016 Mozilla Fellows for Science Roadmap!
+#Welcome to the 2016 Mozilla Fellows for Science Roadmap!
 
 This roadmap provides you with a bit of structure for the fellowship. 
 
 Over the next 10 months, you'll create amazing projects, build communities, train our next set of open science leaders, and champion working open and open science in ways that we haven't yet dreamed of and we'd like to organize those thoughts, prototypes, and projects here.
 
-###TASKS/DELIVERABLES
+##TASKS/DELIVERABLES
 
 We've broken the 10 month period into phases, to help you organize your time (Explore, Prototype, Test/Share, Refine, Launch). Deliverables are for each phase of the project will be listed as that phase nears, and sorted into directories named for the phase. The deliverables will help you document your project's evolution, and make your process transparent and reusable for our wider community. 
 
@@ -12,7 +12,7 @@ We've assigned point people ([contact list here](https://github.com/mozillascien
 
 See below for a timeline of the tasks for the year. All is subject to change/updating. Again, your feedback is welcome!
 
-###CALENDAR
+##CALENDAR
 
 A general [program calendar can be found in this spreadsheet](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=0), and it will likely update with more frequency relative to events.
 
@@ -37,7 +37,7 @@ A general [program calendar can be found in this spreadsheet](https://docs.googl
 |  LAUNCH   |  June 29, 2017 | Closing Dinner w/ OWF | San Francisco, USA | MSL + OWF + 2 Fellows | ~ |
 
 
-###TIMELINE/PHASES
+##TIMELINE/PHASES
 
 The phase deliverables and work periods are as follows (deliverables are due on the last day of the period).
 
