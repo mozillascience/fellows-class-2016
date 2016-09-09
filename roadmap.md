@@ -53,6 +53,7 @@ You’ll be doing project research and development planning exercises and contri
 * [Blog response on intro to msl](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-intro.md)
 * [Fellow-Fellow Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/fellow_interviews.md)
 
+
 	> **Events** : Onboarding
 
 	> **Calls** : Wednesday 9/21, 13:00 EST
@@ -64,6 +65,7 @@ You’ll be doing project research and development planning exercises and contri
 * [Elevator pitch](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/elevator_pitch.md) (polished! jargon free, to be 	presented on Oct 13 call)
 * [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/description.md)
 * [Blog response on Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-interviews.md)
+
 
 	> **Events** : Mozfest
 
@@ -78,6 +80,7 @@ You’ll be doing project research and development planning exercises and contri
 * [7 slide presentation](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/presentation.md) (shareable) and/or short video
 * [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/roadmapping.md)
 * [Blog response on roadmapping](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-roadmapping.md)
+
 	
 	> **Events** : OpenCon
 
@@ -94,6 +97,7 @@ You’ll be working on testing and building out your proposed project(s) through
 * Start [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/resume.md)
 * [Project schedule](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_schedule.md)
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-time_mgmt.md)
+
 	
 	> **Calls** : Wednesday 12/14 + 12/28 (holidays contingent), 13:00 EST
 
@@ -107,6 +111,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	* [Week/Sprint Entry Survey](http://goo.gl/forms/4wu3nkH7WY)
 	* [Week/Sprint Exit Survey](http://goo.gl/forms/I6ZRdpvWs7)
 * [Blog response on idea + users for project(s)](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-users.md)
+
 	
 	> **Calls** : Wednesday 1/11 + 1/25, 13:00 EST
 
@@ -116,6 +121,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 * [Project surveys](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_surveys.md)
 * [Blog response on WOW](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-wow.md)
+
 	
 	> **Events** : Work week + WOW
 	
@@ -129,6 +135,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 * [Project surveys](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_surveys.md)
 * [Blog response on impact of project(s)](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-impact.md)
+
 	
 	> **Events** : GET Conf, OpenVis, RightsCon
 	
@@ -146,6 +153,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 * [Documentation Exercise](https://github.com/mozillascience/fellows-class-2016/blob/master/test/documentation.md)
 * [Event Planning or mini-WOW](https://github.com/mozillascience/fellows-class-2016/blob/master/test/event_wow.md)
 * [Blog response on documentation](https://github.com/mozillascience/fellows-class-2016/blob/master/test/blog-documentation.md)
+
 	
 	> **Events** : Work week + Open Web Sprint
 	
@@ -159,6 +167,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 
 * [Sustainability Plan](https://github.com/mozillascience/fellows-class-2016/blob/master/test/sustainability.md)
 * [Blog response on fellowship retrospective](https://github.com/mozillascience/fellows-class-2016/blob/master/test/blog-retro.md)
+
 
 	> **Calls** : Wednesday 5/3 + 5/17 + 5/31, 13:00 EST
 
@@ -174,6 +183,7 @@ You’ll wrap-up your fellowship by packaging your project(s) for launch and pub
 * Update [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/resume.md)
 * Choose launch data and prioritize final features
 * Revisit [Goal-setting](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/goal-setting.md) from onboarding and first month
+
 
 	> **Events** : Global Sprint, Graduation
 	
