@@ -50,7 +50,8 @@ You’ll be doing project research and development planning exercises and contri
 **Exercises** :
 
 * [Goal-setting]()
-* [Blog response on intro to msl, interview format](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-intro_interview.md)
+* [Blog response on intro to msl](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/1-intro_interview.md)
+* [Fellow-Fellow Interviews]()
 
 	> **Events** : Onboarding
 
@@ -62,7 +63,7 @@ You’ll be doing project research and development planning exercises and contri
 	
 * [Elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md) (polished! jargon free, to be 	presented on Oct 13 call)
 * [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md)
-* [Blog response on Community Call + Ideal Theme](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
+* [Blog response on Interviews](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 
 	> **Events** : Mozfest
 
@@ -89,7 +90,8 @@ You’ll be working on testing and building out your proposed project(s) through
 ###December: 
 
 **Exercises** :
-	
+
+* Start [Meta-résumé](https://github.com/mozillascience/fellows-class-2015/blob/master/test/1-resume.md)
 * [Project schedule](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/project_schedule.md)
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2015/blob/master/prototype/blog_reports.md)
 	
