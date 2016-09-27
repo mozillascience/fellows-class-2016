@@ -44,7 +44,7 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 ### Arliss
 
-* **title:** Metrics and Data Analyst, Mozilla Science Foundation
+* **title:** Metrics and Data Analyst, Mozilla Foundation
 * **email:** arliss@mozillafoundation.org
 * **irc:** arlissc
 * **skype:** arliss.collins99
