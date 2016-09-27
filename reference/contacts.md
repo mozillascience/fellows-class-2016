@@ -50,7 +50,7 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 * **skype:** arliss.collins99
 * **github:** [@arlissc](https://github.com/arlissc)
 * **twitter:** [@arlissc99](https://twitter.com/arlissc99)
-* **areas of expertise:** event management and curling :shaved_ice:
+* **areas of expertise:** assessment, event management, and curling :shaved_ice:
 
 ### Abby 
 
