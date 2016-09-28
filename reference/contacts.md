@@ -44,13 +44,13 @@ Here are some helpful contacts for outreach during your fellowship, and support 
 
 ### Arliss
 
-* **title:** Metrics and Data Analyst, Mozilla Science Foundation
+* **title:** Metrics and Data Analyst, Mozilla Foundation
 * **email:** arliss@mozillafoundation.org
 * **irc:** arlissc
 * **skype:** arliss.collins99
 * **github:** [@arlissc](https://github.com/arlissc)
 * **twitter:** [@arlissc99](https://twitter.com/arlissc99)
-* **areas of expertise:** event management and curling :shaved_ice:
+* **areas of expertise:** assessment, event management, and curling :shaved_ice:
 
 ### Abby 
 
