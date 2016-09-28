@@ -10,9 +10,9 @@ Key points of the elevator pitch are to be:
 
 **GOAL:** We want you to be able to build community and buzz around your projects.  With busy schedules and other work projects competing for attention, it can be difficult to get someone to sit down and have a conversation.  Having a succinct, memorable way to explain what you’re doing and WHY you’re doing it can get people to stop, listen, and even share your passion.  At the end of this exercise you should have a 30 second to one minute “elevator pitch” to get people excited about what you’re doing.
 
-**FORMAT:** Solo writing combined with oral practice.  **You will give your polished pitch to the Mozilla Science Lab team on the January 6th, 2016 Fellows call.**
+**FORMAT:** Solo writing combined with oral practice.  **You will give your polished pitch to the Mozilla Science Lab team on the upcoming 2016 Fellows Call.**
 
-**TIME TO COMPLETE:** 50 mins - 1 hr 15 mins
+**TIME TO COMPLETE:** 50 mins
 
 **TECHNOLOGY:** A timer or stopwatch to time your pitch. Pen and paper or your favorite text editor.  Skype or Google Hangouts for pitching to friends, family, Fellows.  Video is recommended over just audio so body language and eye contact can be practiced along with the text of the pitch.
 
@@ -60,11 +60,11 @@ Refine your pitch again based on your Fellow partner feedback.
 
 How do you feel about your pitch?  Has this process helped you clarify your goals for the project?  Do you feel like you could start up a conversation about your project at your next cocktail party?
 
-Now you’re ready to pitch it to the Mozilla Science Lab team at the **January 6** call!
+Now you’re ready to pitch it to the Mozilla Science Lab team at the next Community Call!
 
 **PITCH PARTNERS:**  
-Joey & Jason pitch to each other.  
-Christie & Richard pitch to each other.
+Kirstie & Bruno pitch to each other.  
+Danielle & Teon pitch to each other.
 
 **HELPFUL RESOURCES ON ELEVATOR PITCHES:**  
 [The Problem with Your Elevator Pitch and How to Fix It](http://www.fastcompany.com/3004484/problem-your-elevator-pitch-and-how-fix-it)  

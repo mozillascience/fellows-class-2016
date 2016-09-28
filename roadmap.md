@@ -50,8 +50,10 @@ You’ll be doing project research and development planning exercises and contri
 **Exercises** :
 
 * [Goal-setting](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/goal-setting.md)
-* [Blog response on intro to msl](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-intro.md)
-* [Fellow-Fellow Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/fellow_interviews.md)
+* [Blog response on intro to MSL](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-intro.md)
+* Start [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/resume.md)
+* Work on Zines
+
 
 
 	> **Events** : Onboarding
@@ -63,6 +65,7 @@ You’ll be doing project research and development planning exercises and contri
 **Exercises** :
 	
 * [Elevator pitch](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/elevator_pitch.md) (polished! jargon free, to be 	presented on Oct 13 call)
+* [Fellow-Fellow Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/fellow_interviews.md)
 * [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/description.md)
 * [Blog response on Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-interviews.md)
 
@@ -94,7 +97,6 @@ You’ll be working on testing and building out your proposed project(s) through
 
 **Exercises** :
 
-* Start [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/resume.md)
 * [Project schedule](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_schedule.md)
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-time_mgmt.md)
 

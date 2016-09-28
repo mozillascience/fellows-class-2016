@@ -30,7 +30,7 @@ A cell biologist and Neuroscience PhD candidate at [Oregon Health and Science Un
 
 **bio**
 
-Teon Brooks is a soon-to-be postdoctoral researcher at the Center for Reproducible Neuroscience and the Department of Psychology at Stanford University. He studies the cognitive processes and temporal dynamics of the brain during reading. He is a core developer for MNE, a community-driven project for analyzing time-series brain data in Python; and OpenEXP, an open science platform founded to be a "GitHub for Experiments" and a tool for running both behavioral and physiological experiments using open-source web-based tools.
+Teon Brooks is a postdoctoral researcher at the Center for Reproducible Neuroscience and the Department of Psychology at Stanford University. He studies the cognitive processes and temporal dynamics of the brain during reading. He is a core developer for MNE, a community-driven project for analyzing time-series brain data in Python; and OpenEXP, an open science platform founded to be a "GitHub for Experiments" and a tool for running both behavioral and physiological experiments using open-source web-based tools.
 He is also developing curriculum, DIYCogSci, for teaching experimental research methods and coding using low-cost electronics and open-source hardware.
 
 * **twitter:** [@teon_io](https://github.com/teon_io)

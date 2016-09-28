@@ -14,6 +14,8 @@ Creating a roadmap helps others understand the current status of your project an
 
 This can be as simple as a collection of issues in your issue tracker, or a detailed timeline complete with milestones. It's up to you to choose what works best for your community!
 
+You can use the `roadmap.md` template in this repo to start, and add in specific work and tasks that are particular to your projects and work.
+
 ####What should be in a roadmap?
 
 **Mission**
@@ -43,3 +45,5 @@ If your project is hosted on GitHub, placing your roadmap in an issue is:
 * easy to update,
 * allows you to easily link each task to the corresponding issue and
 * enables discussion.
+
+For the purpose of this exercise, putting it in your folder should work, try to title it `roadmap.md` or something intuitive so we know where to check.

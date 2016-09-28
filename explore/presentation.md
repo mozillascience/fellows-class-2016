@@ -1,4 +1,4 @@
-## Presentation:
+##Presentation.
     
 **GOAL:** Distill your project idea into a short presentation to deliver to your peers for feedback and review. 
     
@@ -6,11 +6,11 @@
     
 **TECHNOLOGY:** Your favorite presentation software. 
     
-**TIME TO COMPLETE:** 1.5 hours.
+**TIME TO COMPLETE:** 1 hour.
 
 ### PROCESS: 
 
-Building off your answers to the [project description exercise](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/2-project_description_exercise.md) and your [elevator pitch](https://github.com/mozillascience/fellows-class-2015/blob/master/explore/3-elevator_pitch_exercise.md), this exercise will marry the two into a final presentation to deliver to the group. This will feature your main project idea for the fellowship, explain the problem space, and talk about how your work will address that problem. Try to compose something with images rather than only text, and give yourself some presenter's notes to complement what might turn into a nice TED talk at some point.
+Building off your answers to the [project description exercise](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/2-project_description_exercise.md) and your [elevator pitch](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/3-elevator_pitch_exercise.md), this exercise will marry the two into a final presentation to deliver to the group. This will feature your main project idea for the fellowship, explain the problem space, and talk about how your work will address that problem. Try to compose something with images rather than only text, and give yourself some presenter's notes to complement what might turn into a nice TED talk at some point.
 
 The aim of this exercise is to work on packaging up your project idea and communicate your idea to a diverse audience, so that they can understand your proposal and provide useful feedback.
 

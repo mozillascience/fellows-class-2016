@@ -9,23 +9,20 @@ The end goal of this exercise will be to share your work with the group, incorpo
 
 **TECHNOLOGY:** Your favorite text editor or program to write in, a whiteboard (or paper to scribble on), and a timer. (Feeling distracted? Try Focus Writer or [one of these tools](http://lifehacker.com/5689579/five-best-distraction-free-writing-tools) - many have word counts baked in.
 
-**TIME:** 2.5-3 hours.
+**TIME:** 2 hours.
 
 ===========
 
 ###What is the general idea? (25 words)
 
-***Free-write for 6 minutes; then refine your answer for 5 minutes.***
-
 What change do you want to see as a result of this project? Give us a sense of the context in which this project exists. Main items to include: what is the **problem**, **help needed**, and **desired outcome**. Note: This should be a high-level description (not a full-project roadmap), and written so that a lay-person can understand. 
 
 ###Major work in this space (300 words):
 
-***Note: This is a two-part exercise. Give yourself the full-time allotted for this section, and feel free to go above the time limits listed if you need.***
 
 - **Research (1 hour - 50 words)**: What is the major related work in this field relevant to your problem area? List 5-10 most noteworthy projects addressing the same subjects, issues, or problems, and add a short (1-3 line) summary and/or a link. 
 
-- **Summary (30 minutes - 250 words)**: Now, refine what you've found, and spend the next 30 minutes working to answer the questions below. This summary should include references to important publications or results of other significant efforts in the field. The proposer should describe how his or her work differs from, contributes to, or complements this work.
+- **Summary (10 minutes - 250 words)**: Now, refine what you've found, and spend the next 30 minutes working to answer the questions below. This summary should include references to important publications or results of other significant efforts in the field. The proposer should describe how his or her work differs from, contributes to, or complements this work.
 
 - Some questions to get you started:
  - What was the last big thing to happen on this topic? 
@@ -39,7 +36,7 @@ What change do you want to see as a result of this project? Give us a sense of t
 
 ###What you're going to do (300 words):  
 
-*Spend __20-30 minutes__ sketching out (on paper or a whiteboard) various ways to address your the problem listed in your "General Idea" answer above. (It's OK to go back and refine that, too!). At the end of that brainstorm, __spend the next 30 minutes__ filling in the sections below, paying mind to the word count and flow of the idea. Feel free to work through these questions for various solutions. The answers to the questions below will shape the project description shared in your README in your repository.*  
+*Spend __20 minutes__ sketching out (on paper or a whiteboard) various ways to address your the problem listed in your "General Idea" answer above. (It's OK to go back and refine that, too!). At the end of that brainstorm, __spend the next 30 minutes__ filling in the sections below, paying mind to the word count and flow of the idea. Feel free to work through these questions for various solutions. The answers to the questions below will shape the project description shared in your README in your repository.*  
 
 - Idea summary (25 words):
 - Who is the audience? (25 words):
@@ -51,9 +48,6 @@ What change do you want to see as a result of this project? Give us a sense of t
 - Opportunities for collaboration (25 words):
 
 ###What does progress look like? (50 words):
-
-***Free-write for 6 minutes; then refine your answer for 5 minutes.***
-
 
 - What does success look like for this project? 
 - Who will this affect?
