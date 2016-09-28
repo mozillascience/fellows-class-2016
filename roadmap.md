@@ -51,7 +51,7 @@ You’ll be doing project research and development planning exercises and contri
 
 * [Goal-setting](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/goal-setting.md)
 * [Blog response on intro to MSL](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-intro.md)
-* Start [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/resume.md)
+* Start [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/resume.md)
 * Work on Zines
 
 
