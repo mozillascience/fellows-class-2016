@@ -8,9 +8,5 @@
 
 **TIME TO COMPLETE:** 30 to 35 mins 
 
-1. **Free-write: Problem/Challenge (5 mins).** Remember, don’t start with the solution you’re imagining here, only the problem you want it to address. Try phrasing  your problem in jargon-free language, and be sure you’re defining all terms plainly-- what ie: what does “open” mean in this case? Take a step back and look at the roots of the problem. What’s contributing or compounding it. Are there underlying causes you need to consider, to be sure you’re targeting your solution effectively? 
-2. **Free-write: Scope and Scale (5 mins).**  Consider the decisions you’ve made (if any) about scope and scale (for example: “among undergraduates” or “in the UK.”) . Take the problem and shift your scope and scale (zoom in/out) to focus on a larger or smaller subset of users or behaviors. What changes when you do this?  What feels most manageable? What feels too complex, or too general? Are you seeing new audiences or users you didn’t imagine?
-3. **Refine.  (3-5 minutes).** Take a moment to narrow your problem statement down to one or two sentences.
-4. **Reflect (2-5 mins).** Are you finding any  gaps in your understanding of the problem, your users, etc? Is research needed? List 3-5 areas where you might need more.
-5. **Brainstorm (2-5 mins).** Think of analogs. What are similar problems in other fields? What solutions have been tried? Did they work? Why/Why not? 
-6. **Free-write: Transformation (5 mins).**  If this problem is solved, what does that look like? What do people do differently? What are the effects one week, one month, one year, ten years after this problem is solved? How does this change the transform the  broader culture? (Again, skip the solution for now and try to imagine only the outcome).
+1. Work from [the document](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c) we used at onboarding 
+2. Work on your Open Canvas and document your goals in your own folder.
