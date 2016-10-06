@@ -1,20 +1,20 @@
 # Introducing the 2016 Mozilla Science Fellows: Kirstie Whitaker
 
-Hello! My name is Kirstie and I'm a researcher in the [Department of Psychiatry](http://www.psychiatry.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
+Hello! My name is [Kirstie](https://twitter.com/kirstie_j) and I'm a researcher in the [Department of Psychiatry](http://www.psychiatry.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/).
 
-![](images/TourDeFranceInCambridge.jpg)
+![](../images/TourDeFranceInCambridge.jpg)
 
 *A very exciting day when the Tour de France passed through Cambridge!*
 
 I study adolescent brain development, which means I put teenagers and young adults in magnetic resonance imaging (MRI) scanners and take pictures of their brains.
 
-![](images/KWbrain.png)
+![](../images/KWbrain.png)
 
 *My brain: available on [figshare](https://dx.doi.org/10.6084/m9.figshare.879706.v1)*
 
 Actually, that isn't true, I work in a large consortium of researchers and we have an amazing team of research assistants and radiographers who do the scanning!
 
-![](images/NSPN_TeamPic_Sillyselfie.jpg)
+![](../images/NSPN_TeamPic_Sillyselfie.jpg)
 
 *The incredible NSPN research assistants, and a selection of the many PhD students, postdocs and principle investigators....and me.*
 
