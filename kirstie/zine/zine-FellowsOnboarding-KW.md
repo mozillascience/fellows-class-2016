@@ -7,8 +7,8 @@
 3. *reproducible* research & what could be better
 4. *replication* - why we need to do it
 5. example of why studies won't always replicate (and why that's fine but important to know!)
-6. robust research - different ways of skinning the same cat
-7. generalisable - bringing it all together and making it helpful for policy makers and clinicians
+6. *robust* research - different ways of skinning the same cat
+7. *generalisable* - bringing it all together and making it helpful for policy makers and clinicians
 8. back cover - table w title "handy dandy reference"
 
 ## Pictures, references, resources
