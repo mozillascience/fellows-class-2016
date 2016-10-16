@@ -83,6 +83,9 @@
   * Avoiding unseen obstacles: Subcortical vision is not sufficient to maintain normal obstacle avoidance behaviour during reaching  http://www.sciencedirect.com/science/article/pii/S001094521630257X
   * Human blindsight is mediated by an intact geniculo-extrastriate pathway https://elifesciences.org/content/4/e08935
 
+![](http://66.media.tumblr.com/tumblr_mcz7mc5mQJ1rknb89o1_500.jpg)
+
+From: http://theoriginalshebubbles.tumblr.com/post/35907737933/psycholar-blindsight-is-an-incredibly
 
 #### Page 6 - Robust research
 
