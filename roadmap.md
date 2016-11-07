@@ -101,7 +101,7 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-time_mgmt.md)
 
 	
-	> **Calls** : Wednesday 12/7 + 12/21 (holidays contingent), 13:00 EST
+	> **Calls** : Wednesday 12/14 (holidays contingent), 13:00 EST
 
 	> **Community Call** : 12/15, 11:00 EST
 
