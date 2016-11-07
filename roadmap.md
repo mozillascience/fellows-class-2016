@@ -50,9 +50,9 @@ You’ll be doing project research and development planning exercises and contri
 **Exercises** :
 
 * [Goal-setting](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/goal-setting.md)
-* [Blog response on intro to MSL](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-intro.md)
+* [x] [Blog response on intro to MSL](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-intro.md)
 * Start [résumé](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/resume.md)
-* Work on Zines
+* [x] Work on Zines
 
 
 
@@ -64,10 +64,9 @@ You’ll be doing project research and development planning exercises and contri
 
 **Exercises** :
 	
-* [Elevator pitch](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/elevator_pitch.md) (polished! jargon free, to be 	presented on Oct 13 call)
+* [Elevator pitch](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/elevator_pitch.md) (polished! jargon free, to be 	presented on Dec 15 call)
 * [Fellow-Fellow Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/fellow_interviews.md)
-* [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/description.md)
-* [Blog response on Interviews](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-interviews.md)
+* [Blog response on Interviews or Elevator Pitch](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-interviews.md)
 
 
 	> **Events** : Mozfest
@@ -81,6 +80,7 @@ You’ll be doing project research and development planning exercises and contri
 **Exercises** :
 	
 * [7 slide presentation](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/presentation.md) (shareable) and/or short video
+* [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/description.md)
 * [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/roadmapping.md)
 * [Blog response on roadmapping](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-roadmapping.md)
 
