@@ -87,7 +87,7 @@ You’ll be doing project research and development planning exercises and contri
 	
 	> **Events** : OpenCon
 
-	> **Calls** : Wednesday 11/2 + 11/16 + 11/30, 13:00 EST
+	> **Calls** : Wednesday 11/9 + 11/23 + 11/30, 13:00 EST
 
 ###PROTOTYPE (December 2016 - March 2017)
 
@@ -101,7 +101,7 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-time_mgmt.md)
 
 	
-	> **Calls** : Wednesday 12/14 + 12/28 (holidays contingent), 13:00 EST
+	> **Calls** : Wednesday 12/7 + 12/21 (holidays contingent), 13:00 EST
 
 	> **Community Call** : 12/15, 11:00 EST
 
@@ -115,7 +115,7 @@ You’ll be working on testing and building out your proposed project(s) through
 * [Blog response on idea + users for project(s)](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-users.md)
 
 	
-	> **Calls** : Wednesday 1/11 + 1/25, 13:00 EST
+	> **Calls** : Wednesday 1/4 + 1/18, 13:00 EST
 
 ###February: 
 
@@ -127,7 +127,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 	> **Events** : Work week + WOW
 	
-	> **Calls** : Wednesday 2/8 + 2/22, 13:00 EST
+	> **Calls** : Wednesday 2/1 + 2/15, 13:00 EST
 	
 	> **Community Call** : 2/9, 11:00 EST
 
@@ -141,7 +141,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 	> **Events** : GET Conf, OpenVis, RightsCon
 	
-	> **Calls** : Wednesday 3/8 + 3/22, 13:00 EST
+	> **Calls** : Wednesday 3/1 + 3/15 + 3/29, 13:00 EST
 
 
 ###TEST/SHARE (April 2017 - May 2017)
@@ -159,7 +159,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 	
 	> **Events** : Work week + Open Web Sprint
 	
-	> **Calls** : Wednesday 4/5 + 4/19, 13:00 EST
+	> **Calls** : Wednesday 4/12 + 4/26, 13:00 EST
 	
 	> **Community Call** : 4/13, 11:00 EST
 
@@ -171,7 +171,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 * [Blog response on fellowship retrospective](https://github.com/mozillascience/fellows-class-2016/blob/master/test/blog-retro.md)
 
 
-	> **Calls** : Wednesday 5/3 + 5/17 + 5/31, 13:00 EST
+	> **Calls** : Wednesday 5/10 + 5/24 + 5/31, 13:00 EST
 
 
 ###REFINE (June 2017)
@@ -189,7 +189,7 @@ You’ll wrap-up your fellowship by packaging your project(s) for launch and pub
 
 	> **Events** : Global Sprint, Graduation
 	
-	> **Calls** : Wednesday 6/14 Retrospective call, 13:00 EST
+	> **Calls** : Wednesday 6/7 + 6/21 Retrospective call, 13:00 EST
 
 	> **Community Calls** : 6/9, 11:00 EST
 
