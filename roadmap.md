@@ -87,7 +87,7 @@ You’ll be doing project research and development planning exercises and contri
 	
 	> **Events** : OpenCon
 
-	> **Calls** : Wednesday 11/9 + 11/23 + 11/30, 13:00 EST
+	> **Calls** : Wednesday 11/9 + 11/23, 13:00 EST
 
 ###PROTOTYPE (December 2016 - March 2017)
 
