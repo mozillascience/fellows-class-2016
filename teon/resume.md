@@ -1,7 +1,8 @@
 ##Meta Résumé
 
 ###Teon Brooks, Stanford University
-###T:[@teon_io](https://twitter.com/teon_io) G: [@teonbrooks](https://github.com/teonbrooks)
+####T:[@teon_io](https://twitter.com/teon_io)
+####G: [@teonbrooks](https://github.com/teonbrooks)
 
 As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following:
 
@@ -20,7 +21,6 @@ Event | Location | Date | Role | Title/Descriptor
 #### TALKS
 Title (slides) | Event | Location | Date | Additional Media
 -------------- | ----- | -------- | ---- | ----------------
-
 [Accesible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | 2016-Oct-28 | [Pub](http://makerfaire.com/maker/entry/58916/)
 [Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | London, UK | 2016-Oct-29 [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
 
