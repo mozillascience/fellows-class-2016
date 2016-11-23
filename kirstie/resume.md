@@ -45,8 +45,16 @@ NAME 2 | D3 | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTIO
 
 I met with or made significant connections with the following organizations and people:
 
-* PERSON 1
-* PERSON 2
-* ORGANIZATION
+#### PEOPLE
+
+* Jeff Bowers; University of Bristol
+* Bruce Hood; University of Bristol
+    * https://www.speakezee.org
+* Kate Button; University of Bath
+* Dorothy Bishop; University of Oxford
+* Chris Chambers; University of Cardiff
+
+#### ORGANIZATION/GROUPS
+
 * INSTITUTION
 * GROUP
