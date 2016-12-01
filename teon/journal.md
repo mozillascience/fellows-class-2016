@@ -63,7 +63,7 @@ Fellowship Journal
 - First lab meeting with Poldrack Lab
 
 ## Nov 10, 2016
-- Attended the NeuroTechSF hack night Discussed some project collaborations Proposed a plan to work on a real-time P300 detector using CloudBrain and expfactory
+- Attended the NeuroTechSF hack night Discussed some project collaborations. Proposed a plan to work on a real-time P300 detector using CloudBrain and expfactory
 - Talked to GreentekSensor about a getting a custom gel-based cap compatiable with the OpenBCI
 
 ## Nov 11, 2016
@@ -89,7 +89,7 @@ Fellowship Journal
 - Received rejection of CUNY proposal due to an already, overly booked schedule
 - Participated in [Twitter Chat](https://storify.com/AfAmEducation/encouraging-international-learning-experiences-afa) on the value of international education for Black Students
   - Connected with Spelman Psychology Department
-  - **TO DO**: Follow up for a skype meeting
+  - ~~**TO DO**: Follow up for a skype meeting~~
 - Met with Alec on Skype and discussed revision outline
 - Attended Civic Hack Night with Code 4 SF (@SFBrigade)
 
@@ -107,3 +107,17 @@ Fellowship Journal
 - Responded to some issues on GitHub
 - Identified academic conferences to submit to
 - Sent an email to Alex on thesis revisions
+
+## Nov 28, 2016
+- Video chat with Kirstie on potential project
+
+## Nov 30, 2016
+- Intro meeting with Kai at Spelman
+- Lunch meeting with Russ
+  - Sketched out my career goals (what I want to be when I grow up)
+- Wrote back to Jared about Bay Area chapter of SfN
+- Attended a town hall on diversity
+- Set up a call with Mike Ickowitz of ORAU
+- Started GOSH application
+- Reached out to BIDS about the docathon
+- Followed up on MNE coding sprint
