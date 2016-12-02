@@ -121,3 +121,7 @@ Fellowship Journal
 - Started GOSH application
 - Reached out to BIDS about the docathon
 - Followed up on MNE coding sprint
+
+## Dec 01, 2016
+- Guest speaker on the Study Group call
+- Worked on drafting an to-do list for expfactory
