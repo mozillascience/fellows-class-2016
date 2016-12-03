@@ -125,3 +125,7 @@ Fellowship Journal
 ## Dec 01, 2016
 - Guest speaker on the Study Group call
 - Worked on drafting an to-do list for expfactory
+
+## Dec 02, 2016
+- Had a productive call with Mike Ickowitz about collaboration
+- Began outlining eye-tracking lit review
