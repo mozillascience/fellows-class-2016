@@ -129,3 +129,8 @@ Fellowship Journal
 ## Dec 02, 2016
 - Had a productive call with Mike Ickowitz about collaboration
 - Began outlining eye-tracking lit review
+
+## Dec 06, 2016
+- Lab presentation on openexp merge into expfactory
+- Began writing the lit review on eye-tracking for thesis
+- Registered for Berkeley Institute for Transparency in the Social Sciences conference
