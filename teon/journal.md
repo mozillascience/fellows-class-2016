@@ -138,6 +138,9 @@ Fellowship Journal
 ## Dec 07, 2016
 - Consulted for a professor interested in using low-cost EEGs to help teach
 
+## Dec 08, 2016
+- Organizing meeting with BIDS on [Doc-A-Thon](https://bids.github.io/docathon/)
+
 ## Dec 09, 2016
 - Met with Alec about revisions
 - Read literature on eye movements and lexical access
