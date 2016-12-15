@@ -134,3 +134,17 @@ Fellowship Journal
 - Lab presentation on openexp merge into expfactory
 - Began writing the lit review on eye-tracking for thesis
 - Registered for Berkeley Institute for Transparency in the Social Sciences conference
+
+## Dec 07, 2016
+- Consulted for a professor interested in using low-cost EEGs to help teach
+
+## Dec 09, 2016
+- Met with Alec about revisions
+- Read literature on eye movements and lexical access
+- Submitted GOSH application
+
+## Dec 13, 2016
+- Interviewed fellow fellow Danielle
+- Discussed with Kirstie potential proposals for OHBM
+  - Possibly do workshop on Working Open in the hacklab
+  - Possibly do a panel on using social media to promote science
