@@ -151,3 +151,8 @@ Fellowship Journal
 - Discussed with Kirstie potential proposals for OHBM
   - Possibly do workshop on Working Open in the hacklab
   - Possibly do a panel on using social media to promote science
+
+## Dec 20, 2016
+- Meeting with Vanessa about expfactory
+- Worked on eye-tracking lit review
+- Followed up with COS
