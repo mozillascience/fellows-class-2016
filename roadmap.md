@@ -25,7 +25,7 @@ A general [program calendar can be found in this spreadsheet](https://docs.googl
 |  EXPLORE   |  Oct. 28 - 30, 2016  | MozFest (travel days Oct 27 and Oct 31)  | London, UK | MSL + Fellows + Alumni | x |
 |  EXPLORE   |  Nov. 12 - 14, 2016  | OpenCon (travel days Nov 11 and Nov 15)  | Washington D.C., USA | MSL + Fellows + Alumni |  |
 |  PROTOTYPE   |  Dec. 5 - 11, 2016  | Mozilla staff all-hands  | Hawaii, USA | MSL |  |
-|  PROTOTYPE   |  Feb. 13 - 17, 2017 | Fellows work week + WOW  | TBD | MSL + Fellows | x |
+|  PROTOTYPE   |  Feb. 6 - 10, 2017 | Fellows work week + WOW  | TBD | MSL + Fellows | x |
 |  PROTOTYPE   |  Mar 15, 2017 (dates TBD) | GET conference (travel days Mar 5 and Mar 11) // OpenVis  | Boston, USA | MSL + Fellows + Alumni |  |
 |  PROTOTYPE   |  Mar 29 - 31, 2017 | RightsCon Summit (travel days Mar 28 and Apr 1)  | San Francisco, USA | Fellows |  |
 |  TEST/SHARE   |  April (date TBD) | Fellows' Work Week / Open Web Sprint (virtual) w/ OWF  | TBD | MSL + OWF + Fellows |  |
@@ -81,8 +81,6 @@ You’ll be doing project research and development planning exercises and contri
 	
 * [7 slide presentation](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/presentation.md) (shareable) and/or short video
 * [Describing (and testing) your idea](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/description.md)
-* [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/roadmapping.md)
-* [Blog response on roadmapping](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-roadmapping.md)
 
 	
 	> **Events** : OpenCon
@@ -97,7 +95,8 @@ You’ll be working on testing and building out your proposed project(s) through
 
 **Exercises** :
 
-* [Project schedule](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_schedule.md)
+* [Roadmap w/ technical requirements](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/roadmapping.md)
+* [Blog response on roadmapping](https://github.com/mozillascience/fellows-class-2016/blob/master/explore/blog-roadmapping.md)
 * [Blog response on scheduling/time management](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/blog-time_mgmt.md)
 
 	
@@ -109,6 +108,7 @@ You’ll be working on testing and building out your proposed project(s) through
 
 **Exercises** :
 	
+* [Project schedule](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_schedule.md)
 * [Project surveys](https://github.com/mozillascience/fellows-class-2016/blob/master/prototype/project_surveys.md)
 	* [Week/Sprint Entry Survey](http://goo.gl/forms/4wu3nkH7WY)
 	* [Week/Sprint Exit Survey](http://goo.gl/forms/I6ZRdpvWs7)
