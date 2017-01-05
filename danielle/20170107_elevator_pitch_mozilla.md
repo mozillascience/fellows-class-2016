@@ -22,27 +22,27 @@ Key points of the elevator pitch are to be:
 Take a few minutes to write a few sentences about your project.  Think about your goal.  What message are you trying to get across to your listeners?  What will get them excited about your project?
 For this first part, don’t worry about the length of your message.  Be sure to answer these questions:
 
+**First Draft**
+
 * Who are you?
 
-Danielle Robinson, I am a 2016 Mozilla Fellow for Science and I just defended my PhD in Neuroscience. I've been a wet lab biologist for 8 years, my most PhD work was on an inherited peripher neuropathy called Charcot Marie Tooth disease. 
+>Danielle Robinson, I am a 2016 Mozilla Fellow for Science and I just defended my PhD in Neuroscience. I've been a wet lab biologist for 8 years, my most PhD work was on an inherited peripher neuropathy called Charcot Marie Tooth disease. 
 
 * What are you doing? What problem does your project address?
 
-I'm working on a project to help scientists take control of their data and better understand how institutional policies influence their datasharing and publishing choices. 
-I'm working on a project to educate scientists on the licencing, copyright, and policy issues that affect their scientific output. We need to advocate for our data and our ability to share data. 
-I'm working to influence the policies that govern data managment, data sharing, and data licensing at my institution and developing tools that other scientists can use to adderss these issues at their institutions.
+>I'm working on a project to help scientists take control of their data and better understand how institutional policies influence their datasharing and publishing choices. 
+>I'm working on a project to educate scientists on the licencing, copyright, and policy issues that affect their scientific output. We need to advocate for our data and our ability to share data. 
+>I'm working to influence the policies that govern data managment, data sharing, and data licensing at my institution and developing tools that other scientists can use to adderss these issues at their institutions.
 
 * What is the impact of what you're doing? Why is it important?
 
-Policies, whether originating from an instiution, a journal or a funding agerncy, have a sizable impact on research workflows, outputs, and cuture. But scientists are not always imvolved in policy creation or updating. We need education, resources, and support to become advocates to make sure the polcies at our instiutions reflect the way science gets done today.
-
+>Policies, whether originating from an instiution, a journal or a funding agerncy, have a sizable impact on research workflows, outputs, and cuture. But scientists are not always imvolved in policy creation or updating. We need education, resources, and support to become advocates to make sure the polcies at our instiutions reflect the way science gets done today.
 
 * Have others tried to solve this problem? How is your project different?
-Becasue polices are institution/agency/journal specific, their adoption, editing, and influence happens in the small sphere. By identifying champions in different areas of policy, I can help set the standard for what a promotion and tenure, journal data sharing, or IP policy should be. By developing educational tools and a support netowrk, I can help scientists participate in the policy makign process at multiple levels.
+>Becasue polices are institution/agency/journal specific, their adoption, editing, and influence happens in the small sphere. By identifying champions in different areas of policy, I can help set the standard for what a promotion and tenure, journal data sharing, or IP policy should be. By developing educational tools and a support netowrk, I can help scientists participate in the policy makign process at multiple levels.
 
-* Draft
-Hi! I'm Danielle. I am a 2016 Mozilla Fellow for Science and I just defended my PhD in Neuroscience. I've been a wet lab biologist for 8 years, my most PhD work was on an inherited peripher neuropathy called Charcot Marie Tooth disease. I'm working to influence the policies that govern data managment, data sharing, and data licensing at my institution and developing tools that other scientists can use to adderss these issues at their institutions. Policies, whether originating from an instiution, a journal or a funding agerncy, have a sizable impact on research workflows, outputs, and cuture. Promotion and tenure policies, journal data sharing policies, funding agency dat amanagemnt policies, and institutional IP policies all impact the way science works. Every scientist has interacted with policies that create too much red tape, are ignored, or are not fully understandble without a JD. Scientists, particular early career sceintists, are not always imvolved in the policy process. We need education, resources, and support to become advocates to make sure the polcies at our instiutions reflect the way science gets done today.
-Becasue polices are institution/agency/journal specific, their adoption, editing, and influence happens in the small sphere. By identifying champions in different areas of policy, Mozilla science can identify the standard for what a promotion and tenure, journal data sharing, or IP policy should be. By developing educational tools and a support netowrk, I can help scientists participate in the policy makign process at multiple levels. 
+** Second Draft **
+>Hi! I'm Danielle. I am a 2016 Mozilla Fellow for Science and I just defended my PhD in Neuroscience. I've been a wet lab biologist for 8 years, my most PhD work was on an inherited peripher neuropathy called Charcot Marie Tooth disease. I'm working to influence the policies that govern data managment, data sharing, and data licensing at my institution and developing tools that other scientists can use to adderss these issues at their institutions. Policies, whether originating from an instiution, a journal or a funding agerncy, have a sizable impact on research workflows, outputs, and cuture. Promotion and tenure policies, journal data sharing policies, funding agency dat amanagemnt policies, and institutional IP policies all impact the way science works. Every scientist has interacted with policies that create too much red tape, are ignored, or are not fully understandble without a JD. Scientists, particular early career sceintists, are not always imvolved in the policy process. We need education, resources, and support to become advocates to make sure the polcies at our instiutions reflect the way science gets done today. Becasue polices are institution/agency/journal specific, their adoption, editing, and influence happens in the small sphere. By identifying champions in different areas of policy, Mozilla science can identify the standard for what a promotion and tenure, journal data sharing, or IP policy should be. By developing educational tools and a support netowrk, I can help scientists participate in the policy makign process at multiple levels. 
 
 Take what you've written down and condense it into 3-4 sentences or less.
 Having trouble condensing it that much?  Try these tips:
@@ -52,9 +52,8 @@ Having trouble condensing it that much?  Try these tips:
 * Try rearranging your words in a manner that allows you to use less of them.
 * There are a couple articles linked in the “Helpful Resources” section at the bottom that have some more advice.
 
-*3-4 sentence Draft
-Hi! I'm Danielle. I am a 2016 Mozilla Science Fellow and I'm working to improve policies that govern data across the research lifecycle.  Right now, policies often incentivize closed science, for example IP policies that restrict data sharing, or P&T policies that ignore open source software contributions. Early career researchers need education and support to effectively advocate for policies that support today's research outputs. By promoting open data-friendly policy standards, developing educational tools, and a policy project support netowrk, I can help scientists participate in the policy makign process at multiple levels. 
-
+**3-4 sentence Draft**
+>Hi! I'm Danielle. I am a 2016 Mozilla Science Fellow and I'm working to improve policies that govern data across the research lifecycle.  Right now, policies often incentivize closed science, for example IP policies that restrict data sharing, or P&T policies that ignore open source software contributions. Early career researchers need education and support to effectively advocate for policies that support today's research outputs. By promoting open data-friendly policy standards, developing educational tools, and a policy project support netowrk, I can help scientists participate in the policy making process at multiple levels. 
 
 
 **B. Set the tone and review your language. (10-15 minutes)**
