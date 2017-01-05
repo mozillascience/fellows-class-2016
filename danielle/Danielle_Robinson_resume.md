@@ -12,15 +12,15 @@ Event | Location | Date | Role
 [Mozilla Festival](https://mozillafestival.org/) | London, UK | October 27-29, 2016 | Lightning talk: "The open revolution is science and why it needs you"
 [Licensing and copyright roundtable for data sharing and open source](https://twitter.com/daniellecrobins/status/793885129143754755) | Portland, OR | November 4, 2016 | Participant
 [OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - Open Advice (https://kirstiejane.github.io/OpenAdvice/)
-[Coding for Science and Society Meetup] | Portland, OR |(https://www.meetup.com/Dat-Meetup/events/235968044/) | Lightning talk: "Mozilla Science Lab: Resources & community"
+[Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | Lightning talk: "Mozilla Science Lab: Resources & community"
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-[Open Advice] | Website | (https://kirstiejane.github.io/OpenAdvice/)| Answering your real world questions about open science
+[Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science
 
 #### TRAININGS
- [Expressing Yourself with R, a workshop with Hadley Wickham] | (http://events.reed.edu/event/hadley_wickham_workshop) | Participant
+ [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| Participant
  
 #### BLOGS
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
