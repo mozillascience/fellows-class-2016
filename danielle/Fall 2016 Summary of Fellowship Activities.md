@@ -1,14 +1,11 @@
 ###Danielle Robinson, Oregon Health & Science University
 ###[@daniellecrobins](https://twitter.com/daniellecrobins)
 
-As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following: 
+As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following September - December 2016: 
 
-#### EVENTS & TALKS
-
-Event | Location | Date | Role
------ | -------- | ---- | -----
-[Career development and negotiation for women in technical fields with Jessica Williams] (http://superwomanproject.com/) | Portland, OR | September 22, 29, & October 6 | Organizer  
-[Science Hack Day Portland] (http://portland.sciencehackday.org/) | Portland, OR | October 7-8, 2016 | Organizer and molecular biology team leader
+In September, I collaborated with [Women in Science Portland](http://wisportland.weebly.com/) and [ChickTech PDX] (https://portland.chicktech.org/) to host a three part workshop on [career development and negotiation for women in technical fields] (https://science.mozilla.org/blog/reflections-on-women-in-stem) with [Jessica Williams] (http://superwomanproject.com/). This workshop series brought ecologists, cyber security experts, data scientists, neuroscientists, software developers, project managers, actuaries, postdocs, PhD candidates, bioinformatitans, and other technical professional together in a welcoming environment to talk about our careers goals. 
+Building community is something I'd like to focus on in my fellowship. Academic resaerch can be isolating, and this and I continued the theme of local community building with 
+[Science Hack Day Portland] (http://portland.sciencehackday.org/) in October.  Organizer and molecular biology team leader
 [Mozilla Festival](https://mozillafestival.org/) | London, UK | October 27-29, 2016 | Lightning talk: "The open revolution is science and why it needs you"
 [Licensing and copyright roundtable for data sharing and open source](https://twitter.com/daniellecrobins/status/793885129143754755) | Portland, OR | November 4, 2016 | Participant
 [OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - Open Advice (https://kirstiejane.github.io/OpenAdvice/)
