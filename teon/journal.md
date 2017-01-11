@@ -155,4 +155,48 @@ Fellowship Journal
 ## Dec 20, 2016
 - Meeting with Vanessa about expfactory
 - Worked on eye-tracking lit review
-- Followed up with COS
+- Followed up with COS on Twitter
+
+## Dec 21, 2016
+- Fellows call
+- Followed up with COS by email
+
+## Dec 27, 2016
+- Worked on revisions
+
+## Dec 28, 2016
+- Worked on revisions
+
+## Dec 29, 2016
+- expfactory discussion with Andy and Vanessa via email chain
+- Worked on revisions
+
+## Dec 31, 2016
+- Defined my goals for the MNE coding sprint
+
+## Jan 02, 2017
+- Worked on revisions with Sean Martin
+
+## Jan 03, 2017
+- Worked on revisions
+
+## Jan 04, 2017
+- Fellows call
+- Worked on revisions
+
+## Jan 05, 2017
+- Discussed the budget for the Supervised Neural Time Series sprint
+- Worked on revisions
+
+## Jan 06, 2017
+- Blogged about my Chateaubriand experience
+- Worked on revisions
+
+## Jan 09, 2017
+- Worked on revisions
+
+## Jan 10, 2017
+- Worked on revisions
+
+## Jan 11, 2017
+- Worked on revisions
