@@ -1,14 +1,19 @@
 ##Project brief template
 
-**The Challenge:** 
+**The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, funders, institutions, etc)** 
 
+**The Problem:** 
+    Describe the problem your project will address
+        Who is affected?
+        What are the impacts of this problem (locally, nationally, globally)?
+    
  **The Vision:** 
     Who you’re working with, or hope to work with
     What you’re doing
-    Who you’re doing it for, your audience (may be same as b)
+    Who you’re doing it for, your audience 
     Why you’re doing this, the impact or change you hope to make
 
-**The proposal:** Solo writing exercise.  Use all of the time you’re allotted for each exercise. If you get stuck, try to keep going. Keeping your pen moving, free associate, don’t be judgemental, encourage any idea or thought that comes to mind. 
+**The proposal:** 
 
 **TECHNOLOGY:** A timer or stopwatch to time your freewrites. Pen and paper are recommended here, over typing into a computer. 
 
