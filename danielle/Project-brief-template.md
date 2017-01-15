@@ -3,19 +3,41 @@
 **The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, funders, institutions, etc)** 
 
 **The Problem:** 
-    > Describe the problem your project will address
-    > Who is affected?
-    > What are the impacts of this problem (locally, nationally, globally)?
-    > Who
+> Describe the problem your project will address
+> Who is affected?
+> What are the impacts of this problem (locally, nationally, globally)?
+> Who
     
  **The Vision:** 
-    >Who you’re working with, or hope to work with
-    >What you’re doing
-    >Who you’re doing it for, your audience 
-    >Why you’re doing this, the impact or change you hope to make
+ > What you’re doing
+ > Who you’re doing it for, your audience 
+ > Why you’re doing this, the impact or change you hope to make
+ > Who you’re working with, or hope to work with
 
 **The proposal:** 
-
+ > What are the core ideas of your project
+ > What resources are required for the project 
+ > What is the minimum viable version of your project
+ 
+ **The timeline:** 
+ > Two week sprint goal:
+    List of tasks
+    List of roadblocks/issues
+    
+ > One month goal: 
+    List of tasks
+    List of roadblocks/issues
+    
+ > Three month goal:
+    
+    
+ > 6 month goal
+    
+    
+ > Mozfest goal
+    
+ 
+ 
 Project scope
 
 4 Core ideas
