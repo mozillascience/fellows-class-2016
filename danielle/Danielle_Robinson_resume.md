@@ -14,7 +14,7 @@ Event | Location | Date | Role
 [OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - Open Advice (https://kirstiejane.github.io/OpenAdvice/)
 [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | December 13, 2016 | Lightning talk: "Mozilla Science Lab: Resources & community"
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer
-[OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/) | Portland OR | On campus support for students and postdocs learning to code! Do it / teach it!
+[OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/) | Portland OR | On campus support for students and postdocs learning to code! Do it / teach it! | Organizer
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
