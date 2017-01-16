@@ -7,8 +7,8 @@ As part of the 2016 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[Career development and negotiation for women in technical fields with Jessica Williams] (http://superwomanproject.com/) | Portland, OR | September 22, 29, & October 6 | Organizer  
-[Science Hack Day Portland] (http://portland.sciencehackday.org/) | Portland, OR | October 7-8, 2016 | Organizer and molecular biology team leader
+[Career development and negotiation for women in technical fields with Jessica Williams](http://superwomanproject.com/) | Portland, OR | September 22, 29, & October 6 | Organizer  
+[Science Hack Day Portland](http://portland.sciencehackday.org/) | Portland, OR | October 7-8, 2016 | Organizer and molecular biology team leader
 [Mozilla Festival](https://mozillafestival.org/) | London, UK | October 27-29, 2016 | Lightning talk: "The open revolution is science and why it needs you"
 [Licensing and copyright roundtable for data sharing and open source](https://twitter.com/daniellecrobins/status/793885129143754755) | Portland, OR | November 4, 2016 | Participant
 [OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - Open Advice (https://kirstiejane.github.io/OpenAdvice/)
@@ -19,6 +19,9 @@ Event | Location | Date | Role
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 [Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science
+Building local community via an inclusive hackathon, manuscript in preparation
+Radian Data
+Assisiting with journal data policies paper
 
 #### TRAININGS
  [Expressing Yourself with R, a workshop with Hadley Wickham]| October 11, 2016 | (http://events.reed.edu/event/hadley_wickham_workshop)| Participant
@@ -28,5 +31,7 @@ TITLE | TECH USED | LINK | DESCRIPTION
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
 * [Reflections on my 1st hackathon: Science Hack Day PDX](https://science.mozilla.org/blog/science-hack-day-pdx)
 * [Reflections on Negotiation and Professional Development for Women in Science and Tech](https://science.mozilla.org/blog/reflections-on-women-in-stem)
+* [OpenCon: An Unexpected Journey](https://science.mozilla.org/blog)
+
 
 
