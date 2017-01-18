@@ -28,16 +28,18 @@ How will this project be sustained (beyond 6 mo, beyond 1 yr, indefinitely?)
  
 **The proposal:** 
  
-What are the core ideas of your project?
+What are the *core ideas* of your project?
 - Impact/influence? 
 - Inform/educate? 
 - Facilitate/remove barriers? 
 - Transfom? What will be different? What will people do differently?
-
-Brainstorm here and get your core ideas down to 2-3 concepts. 
+>Brainstorm here to get central concepts down to *2-3 core ideas*. 
   
 What resources are required for the project to succeed?
-- Money? Time? Collaborations? Infrastructure?
+- Money? 
+- Time?
+- Collaborations? 
+- Infrastructure?
  
 What is the minimum viable version of your project?
 - How will you know when the project is done?
