@@ -48,29 +48,34 @@ Who/what resources exist to address the problem now?
 - How is this appraoch special or different?
  
 **The process:** 
+
 What is your process going to look like? 
  > Write out, stream of consiouness style how this project would unfold. Be as detailed as possible. What are the critical moments? What caveats/roadblocks are coming up? Use this exercise to identify key milestones. Now condense that into a timeline below. 
  
 **The timeline:** 
- > Two week sprint goal:
+
+- Two week sprint goal:
+    
+    List of tasks
+    
+    List of roadblocks/issues
+    
+    1 milestone
+    
+- One month goal: 
     List of tasks
     List of roadblocks/issues
     1 milestone
     
- > One month goal: 
-    List of tasks
-    List of roadblocks/issues
-    1 milestone
-    
- > Three month goal:
+- Three month goal:
     Milestones completed
     Milestones to do
     
- > 6 month goal
+- 6 month goal
     Milestones completed
     Milestones to do
     
- > Mozfest goal
+- Mozfest goal
     Milestones completed
  
 **Assessment:** 
@@ -80,9 +85,6 @@ How will you assess your project?
 - How will users assess your project?
 - How will outside bodies assess your project?
 
-- What are the gaps in exisiting systems? 
-- Why have other approaches failed?
-- How is this appraoch special or different?
   
 1. Work from [the document](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c) we used at onboarding 
 2. Work on your Open Canvas and document your goals in your own folder.
