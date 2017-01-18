@@ -6,7 +6,8 @@
 
 Describe the problem your project will address. (2-5 sentences) 
 - Who is affected by the problem?
-- What are the impacts of this problem (locally, nationally, globally)?
+- What are the impacts of this problem?
+ - locally, nationally, globally
     
 **The Vision:** 
  
@@ -18,13 +19,18 @@ Who is the "audience"?
 - What are their needs (or prereqs) in order to participate in the project.
 - Will they participate in the formation of the project, if so, how?
  
+ 
 Write a participant or user persona, if appropriate.
+ 
  
 Who are your collaborators? 
 - What makes you/collaborators uniquely positioned to solve the problem?
 
-How will this project be sustained (beyond 6 mo, beyond 1 yr, indefinitely?)
+
+How will this project be sustained? 
+- Beyond 6 mo, beyond 1 yr, indefinitely?
 - Will users/participants be involved in itteration and sustaining the project?
+ 
  
 **The proposal:** 
  
@@ -33,7 +39,8 @@ What are the *core ideas* of your project?
 - Inform/educate? 
 - Facilitate/remove barriers? 
 - Transfom? What will be different? What will people do differently?
->Brainstorm here to get central concepts down to *2-3 core ideas*. 
+> Brainstorm here to get central concepts down to *2-3 core ideas*. 
+  
   
 What resources are required for the project to succeed?
 - Money? 
@@ -41,8 +48,10 @@ What resources are required for the project to succeed?
 - Collaborations? 
 - Infrastructure?
  
+ 
 What is the minimum viable version of your project?
 - How will you know when the project is done?
+ 
  
 Who/what resources exist to address the problem now?
 - What are the gaps in exisiting systems? 
