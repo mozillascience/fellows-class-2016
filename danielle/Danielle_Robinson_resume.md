@@ -15,6 +15,7 @@ Event | Location | Date | Role
 [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | December 13, 2016 | Lightning talk: "Mozilla Science Lab: Resources & community"
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer
 [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/) | Portland OR | On campus support for students and postdocs learning to code! Do it / teach it! | Organizer
+[Digital security for moms] (add link to GH) | Portland OR | Talk and workshop on how to level up your personal digital security.
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
@@ -26,7 +27,7 @@ Assisiting with journal data policies paper
 
 
 #### TRAININGS
- [Expressing Yourself with R, a workshop with Hadley Wickham]| October 11, 2016 | (http://events.reed.edu/event/hadley_wickham_workshop)| Participant
+ [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Participant
  Library Carpentry 2017 Portland OR
  
 #### BLOGS
