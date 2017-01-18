@@ -3,29 +3,28 @@
 **The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc)** 
 
 **The Problem:** 
-> Describe the problem your project will address. (2-5 sentences) 
->> Who is affected by the problem?
 
->> What are the impacts of this problem (locally, nationally, globally)?
+Describe the problem your project will address. (2-5 sentences) 
+- Who is affected by the problem?
+- What are the impacts of this problem (locally, nationally, globally)?
     
  **The Vision:** 
- How does your project address the problem? (2-5 sentences)
- > What is the impact or change you hope to make?
  
- Who is the "audience"? 
- > Who will be impacted by this project?
+How does your project address the problem? (2-5 sentences)
+- What is the impact or change you hope to make?
  
- > What are their needs (or prereqs) in order to participate in the project.
+Who is the "audience"? 
+- Who will be impacted by this project?
+- What are their needs (or prereqs) in order to participate in the project.
+- Will they participate in the formation of the project, if so, how?
  
- > Will they participate in the formation of the project, if so, how?
+Write a participant or user persona, if appropriate.
  
- > Write a participant or user persona, if appropriate.
- 
- Who are your collaborators? 
- > What makes you/collaboratoes uniquely positioned to solve the problem?
+Who are your collaborators? 
+- What makes you/collaborators uniquely positioned to solve the problem?
 
- How will this project be sustained (beyond 6 mo, beyond 1 yr, indefinitely?)
- > Will users/participants be involved in itteration and sustaining the project?
+How will this project be sustained (beyond 6 mo, beyond 1 yr, indefinitely?)
+- Will users/participants be involved in itteration and sustaining the project?
  
 **The proposal:** 
  What are the core ideas of your project?
