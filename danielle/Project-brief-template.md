@@ -55,28 +55,29 @@ What is your process going to look like?
 **The timeline:** 
 
 - Two week sprint goal:
-    
-    List of tasks
-    
-    List of roadblocks/issues
-    
-    1 milestone
+ - List of tasks
+ - List of roadblocks/issues
+ - 1 milestone
     
 - One month goal: 
-    List of tasks
-    List of roadblocks/issues
-    1 milestone
+ - List of tasks
+ - List of roadblocks/issues
+ - 1 milestone
+ - New sprint
     
 - Three month goal:
-    Milestones completed
-    Milestones to do
+ - Milestones completed
+ - Milestones to do
+ - New sprint
     
 - 6 month goal
-    Milestones completed
-    Milestones to do
+ - Milestones completed
+ - Milestones to do
+ - New sprint
     
 - Mozfest goal
-    Milestones completed
+ - Milestones completed
+ - New sprint
  
 **Assessment:** 
 How will you assess your project?
