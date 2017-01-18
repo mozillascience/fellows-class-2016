@@ -1,85 +1,85 @@
 ##Project brief template
 
-**The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, funders, institutions, etc)** 
+**The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc)** 
 
 **The Problem:** 
-> Describe the problem your project will address
-> Who is affected?
-> What are the impacts of this problem (locally, nationally, globally)?
-> Who
+> Describe the problem your project will address. (2-5 sentences) 
+>> Who is affected by the problem?
+
+>> What are the impacts of this problem (locally, nationally, globally)?
     
  **The Vision:** 
- > What you’re doing
- > Who you’re doing it for, your audience 
- > Why you’re doing this, the impact or change you hope to make
- > Who you’re working with, or hope to work with
+ How does your project address the problem? (2-5 sentences)
+ > What is the impact or change you hope to make?
+ 
+ Who is the "audience"? 
+ > Who will be impacted by this project?
+ 
+ > What are their needs (or prereqs) in order to participate in the project.
+ 
+ > Will they participate in the formation of the project, if so, how?
+ 
+ > Write a participant or user persona, if appropriate.
+ 
+ Who are your collaborators? 
+ > What makes you/collaboratoes uniquely positioned to solve the problem?
 
+ How will this project be sustained (beyond 6 mo, beyond 1 yr, indefinitely?)
+ > Will users/participants be involved in itteration and sustaining the project?
+ 
 **The proposal:** 
- > What are the core ideas of your project
- > What resources are required for the project 
- > What is the minimum viable version of your project
+ What are the core ideas of your project?
+ > Impact/influence? 
+ 
+ > Inform/educate? 
+ 
+ > Facilitate/remove barriers? 
+ 
+ > Transfom? What will be different? What will people do differently?
+ 
+ Brainstorm here and get your core ideas down to 2-3 concepts. 
+  
+ What resources are required for the project to succeed?
+ > Money? Time? Collaborations? Infrastructure?
+ 
+ What is the minimum viable version of your project?
+ > How will you know when the project is done?
+ 
+ Who/what resources exist to address the problem now?
+ > What are the gaps in exisiting systems? 
+ 
+ > Why have other approaches failed?
+ 
+ > How is this appraoch special or different?
+ 
+ **The process:** 
+ What is your process going to look like? 
+ > Write out, stream of consiouness style how this project would unfold. Be as detailed as possible. What are the critical moments? What caveats/roadblocks are coming up? Use this exercise to identify key milestones. Now condense that into a timeline below. 
  
  **The timeline:** 
  > Two week sprint goal:
     List of tasks
     List of roadblocks/issues
+    1 milestone
     
  > One month goal: 
     List of tasks
     List of roadblocks/issues
+    1 milestone
     
  > Three month goal:
-    
+    Milestones completed
+    Milestones to do
     
  > 6 month goal
-    
+    Milestones completed
+    Milestones to do
     
  > Mozfest goal
-    
+    Milestones completed
  
- 
-Project scope
-
-4 Core ideas
-
-5 Existing unknowns
-
-6 Process
-
-9 Summary of costs
-
-10 Terms of agreement
-
-11 About the studio
-
-12 Relevant projects
-
-13 Moving forward
-
-Does this resource (or one nearly identical) already exist at Mozilla, or elsewhere?
-yes
-no
-If resources like the one you plan to make already exist, what makes your project different or special? *
-Provide links to any reference materials or sources of inspriation.
-
-Who is your audience? *
-(location, age, gender, profession, level of familiarity with topic, level of comfort with technology, etc)
-What are their needs for this work? How will they use the skills/knowlege? *
-What are motivators for these learners? *
-These learning motivations or successes that can happen in-session to make the experience more rewarding like: seeing some sort of finished product, expressing themselves creatively, checking off tasks or boxes, getting some sort of recognition or score, etc
-What are potential stumbling blocks? *
-What might be tricky about the content or format for these users/learners? What are other constriants (time, urgency, etc)
-Include a short persona for this audience: *
-Example: Rashid is a PhD student in astronomy at a university in Southern England. Rashid took an intro Java programming course long ago, as an undergrad, but his research work requires Python skills. He attended a two-day Software Carpentry workshop at his institution. He found the training valuable but has encountered difficulties in debugging and troubleshooting since the workshop, and is struggling on his own.
-Anything else crtical to keep in mind about your users?
-What are ways you might involve your audience in the creation and iteration of this resource?
-Are there opportunities for some members of your target audience participate or collaborate-- by giving feedback or advice, testing out drafts, being part of a design or production sprint, etc?
-
-What is the goal of this resource? What should users do/do differently after they use it?
-To start, think of the Minimum Viable Product, the bare-bones, pure and simple version what needs to be accomplished. List concrete tasks, skills, or chunks of knowledge if possible (for example "understand version control" "make a pull request" "navigate the interface with some ease")
-
-**TECHNOLOGY:** A timer or stopwatch to time your freewrites. Pen and paper are recommended here, over typing into a computer. 
-
-
+  **Assessment:** 
+  
+  
 1. Work from [the document](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c) we used at onboarding 
 2. Work on your Open Canvas and document your goals in your own folder.
