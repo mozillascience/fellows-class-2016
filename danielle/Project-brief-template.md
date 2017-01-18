@@ -1,6 +1,6 @@
 ##Project brief template
 
-**The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc)** 
+**The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc) and to help you develop a realistic assessment of resources and timeline for your project.** 
 
 **The Problem:** 
 
@@ -73,8 +73,16 @@ What is your process going to look like?
  > Mozfest goal
     Milestones completed
  
-  **Assessment:** 
-  
+**Assessment:** 
+How will you assess your project?
+- What outcomes do you hope to acheive?
+ - How can these outcomes be measured?
+- How will users assess your project?
+- How will outside bodies assess your project?
+
+- What are the gaps in exisiting systems? 
+- Why have other approaches failed?
+- How is this appraoch special or different?
   
 1. Work from [the document](https://gist.github.com/auremoser/9461e9ea62c5b3d7b87794158db4342c) we used at onboarding 
 2. Work on your Open Canvas and document your goals in your own folder.
