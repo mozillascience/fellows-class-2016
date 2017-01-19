@@ -13,6 +13,9 @@ Fellowship Journal
 ## Sep 27, 2016
 - Zine check-in
 
+## Sep 28, 2016
+- Fellows call
+
 ## Sep 29, 2016
 - Attended the Replication Debate at NYU
 
@@ -21,6 +24,9 @@ Fellowship Journal
 
 ## Oct 10, 2016
 - Zine check-in
+
+## Oct 12, 2016
+- Fellows call
 
 ## Oct 13, 2016
 - Thesis Defense
@@ -61,6 +67,9 @@ Fellowship Journal
 
 ## Nov 08, 2016
 - First lab meeting with Poldrack Lab
+
+## Nov 09, 2016
+- Fellows call
 
 ## Nov 10, 2016
 - Attended the NeuroTechSF hack night Discussed some project collaborations. Proposed a plan to work on a real-time P300 detector using CloudBrain and expfactory
@@ -107,6 +116,9 @@ Fellowship Journal
 - Responded to some issues on GitHub
 - Identified academic conferences to submit to
 - Sent an email to Alex on thesis revisions
+
+## Nov 23, 2016
+- Fellows call
 
 ## Nov 28, 2016
 - Video chat with Kirstie on potential project
@@ -200,3 +212,12 @@ Fellowship Journal
 
 ## Jan 11, 2017
 - Worked on revisions
+
+## Jan 13, 2017
+- Applied for Google Brain Residency
+
+## Jan 17, 2017
+- Worked on HHMI grant
+
+## Jan 18, 2017
+- Fellows call
