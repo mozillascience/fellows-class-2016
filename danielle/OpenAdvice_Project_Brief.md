@@ -22,6 +22,8 @@ Describe the problem your project will address. (2-5 sentences)
 How does your project address the problem? (2-5 sentences)
 
 - What is the impact or change you hope to make?
+
+> We have created an open site that engages early career researchers who are interested in open science to post their questions and tell their stores, while also engaging experts in how to work openly to consider real world situations. 
  
 Who is the "audience"? 
 
@@ -30,11 +32,15 @@ Who is the "audience"?
 - Will they participate in the formation of the project, if so, how?
 - Write a participant or user persona, if appropriate.
  
+> We hopw to reach early career researchers via social media and professional networks. TO participate in the project, questions can be emailed or participants can drictly edit the github repo if they are comfortable with GitHUb. By enrouraging direct contributions to the GitHub, we will enrouge direct participateion.
+
+> Persona:
  
 Who are your collaborators? 
 
 - What makes you/collaborators uniquely positioned to solve the problem?
 
+> Kirstie and Danielle have both expereinced working in a closed science enviornement, 
 
 How will this project be sustained? 
 
