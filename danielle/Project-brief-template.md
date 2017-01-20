@@ -2,6 +2,18 @@
 
 **The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc) and to help you develop a realistic assessment of resources and timeline for your project.** 
 
+Themes:
+
+- Open source
+- Community building
+- Open education
+- Openly developed resource
+- Open science
+- Open access
+- Data sharing
+- Open- friendly policy
+- Add your fellowship themes here
+
 **The Problem:** 
 
 Describe the problem your project will address. (2-5 sentences) 
