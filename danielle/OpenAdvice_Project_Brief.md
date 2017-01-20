@@ -10,11 +10,12 @@ Themes:
 
 Describe the problem your project will address. (2-5 sentences) 
 
-Early career researchers who are interested in open science face unique challenges. Students, postdocs, and staff may not "own" their data, and may need to defer to supervisors on data sharing, publishing, and open sharing of methods. Because open science can be seen as an all or nothing proposition, early career scientists are at risk of becoming disillusioned and defaulting to traditional, closed scientific workflows and outputs. Early career researchers need resources to point them to practical ways to work openly in a closed enviornment.
-
 - Who is affected by the problem?
 - What are the impacts of this problem?
 - locally, nationally, globally
+
+> Early career researchers who are interested in open science face unique challenges. Students, postdocs, and staff may not "own" their data, and may need to defer to supervisors on data sharing, publishing, and open sharing of methods. Because open science can be seen as an all or nothing proposition, early career scientists are at risk of becoming disillusioned and defaulting to traditional, closed scientific workflows and outputs. Early career researchers need resources to point them to practical ways to work openly in a closed enviornment.
+
     
 **The Vision:** 
  
