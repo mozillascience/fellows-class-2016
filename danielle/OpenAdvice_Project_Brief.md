@@ -1,5 +1,11 @@
 ## OpenAdvice Project brief
 
+Themes:
+
+- Community building
+- Open education
+- Openly developed resource
+
 **The Problem:** 
 
 Describe the problem your project will address. (2-5 sentences) 
