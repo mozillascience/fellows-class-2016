@@ -2,7 +2,8 @@
 
 **The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc) and to help you develop a realistic assessment of resources and timeline for your project.** 
 
-Themes:
+**Fellowship Themes:**
+List the priorities of your fellowship that this project addresses.
 
 - Open source
 - Community building
