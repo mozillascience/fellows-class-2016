@@ -221,3 +221,12 @@ Fellowship Journal
 
 ## Jan 18, 2017
 - Fellows call
+
+## Jan 19, 2017
+- Study group call
+- JS lessons
+
+## Jan 20, 2017
+- Funding meeting with JR on Supervised Neural Time Series sprint
+- Made a preliminary grant proposal for the coding sprint
+- Forked OpenEXP project to the expfactory group
