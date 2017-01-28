@@ -10,12 +10,19 @@ As part of the 2016 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role | Title/Descriptor
 ----- | -------- | ---- | ---- | ----------------
-[Mozilla Fellows Onboarding](https://science.mozilla.org/blog/2016-fellows-onboarding-recap) | Toronto, ON  | 2016-Sep-12 | Attendee | Getting to know fellow fellows ;)
-[World Maker Faire](http://makerfaire.com/maker/entry/58916/) | New York, NY  | 2016-Oct-2 | Panelist | Accessible Future of Neuroscience
-[Dissertation Defense](https://twitter.com/hashtag/teondefends) | New York, NY | 2016-Oct-13 | Speaker | Minding the Gap between Eyetracking and Neurophysiology in Reading
-[Mozilla Festival](http://mozillafestival.org) | London, UK | 2016-Oct-28 | Attendee/Speaker | Annual Festivities
-[EmojiCon](http://2016.emojicon.co) | San Francisco, CA | 2016-Nov-4 | Hacker | Emoji Semantic Network
-[Science Hack Day](http://sf.sciencehackday.org) | San Francisco, CA | 2016-Nov-12 | Attendee
+[Mozilla Fellows Onboarding](https://science.mozilla.org/blog/2016-fellows-onboarding-recap) | Toronto, ON  | 2016 Sep 12-15 | Attendee | Getting to know fellow fellows ;)
+[World Maker Faire](http://makerfaire.com/maker/entry/58916/) | New York, NY  | 2016 Oct-2 | Panelist | Accessible Future of Neuroscience
+[Dissertation Defense](https://twitter.com/hashtag/teondefends) | New York, NY | 2016 Oct-13 | Speaker | Minding the Gap between Eyetracking and Neurophysiology in Reading
+[Mozilla Festival](http://mozillafestival.org) | London, UK | 2016 Oct-28 | Attendee/Speaker | Annual Festivities
+[EmojiCon](http://2016.emojicon.co) | San Francisco, CA | 2016 Nov 4-5 | Hacker | Emoji Semantic Network
+[Science Hack Day](http://sf.sciencehackday.org) | San Francisco, CA | 2016 Nov 12-13 | Attendee | Worked to integrate OpenBCI with MNE-Python
+[BrainHack SF](http://brainhack.org/) | TBA | 2017 Mar 3-4 | Co-organizer |
+[Docathon](https://bids.github.io/docathon/) | Berkeley, CA | 2017 Mar 6-10 | Co-organizer | A week-long documentation sprint of open-source projects
+[Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | 2017 Mar 10-11 | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
+[Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | 2017 Mar 22-25 | A week-long gathering to discuss development and curation of open-source hardware for scientific research
+[Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | 2017-Mar27 | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
+
+
 
 #### TALKS
 Title (slides) | Event | Location | Date | Additional Media
@@ -27,8 +34,10 @@ Title (slides) | Event | Location | Date | Additional Media
 
 #### BLOGS
 [Introducing the 2016 Mozilla Science Fellows: Teon Brooks](https://science.mozilla.org/blog/intro-to-teon)
+[the traveling scientist: science + code + tech + travel](https://teonbrooks.wordpress.com/)
 
 #### PROJECTS
 TITLE | TECH USED | DESCRIPTION
 ----- | --------- | ------------
 [openexp](https://github.com/openexp/openexp) | JS | an open-source desktop app for running experiments and collecting behavioral and physiological data
+[expfactory](http://expfactory.org/) | JS | an open-source environment to run and deploy behavioral experiments both locally and on the web

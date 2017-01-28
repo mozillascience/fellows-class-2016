@@ -218,6 +218,7 @@ Fellowship Journal
 
 ## Jan 17, 2017
 - Worked on HHMI grant
+- Lab meeting
 
 ## Jan 18, 2017
 - Fellows call
@@ -230,3 +231,21 @@ Fellowship Journal
 - Funding meeting with JR on Supervised Neural Time Series sprint
 - Made a preliminary grant proposal for the coding sprint
 - Forked OpenEXP project to the expfactory group
+
+## Jan 24, 2017
+- Meeting with Russ
+- Lab meeting
+
+## Jan 25, 2017
+- Worked on HHMI grant
+- Volunteered to help organize BrainHack SF
+
+## Jan 26, 2017
+- Study Group call
+- Science Policy webinar hosted by AAAS
+- Meeting with Gary McDowell, ED for Future of Research
+
+## Jan 27, 2017
+- Discussed some platform issues with a member of the Science March committee
+- Joined several chats related to the Science March
+- Sent an abstract for a workshop on new approaches to cognitive science education
