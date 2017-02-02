@@ -2,7 +2,7 @@
 ###[@daniellecrobins](https://twitter.com/daniellecrobins)
 
 As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following September 2016 - February 2017: 
->The Fellowship is structured in [three parts](https://github.com/mozillascience/fellows-class-2016/blob/master/roadmap.md). The first three 
+The Fellowship is structured in [three parts](https://github.com/mozillascience/fellows-class-2016/blob/master/roadmap.md). I've just completed the exploration phase (Septemebr- December). Below you'll find an overview of what I have been working on and some of the projects I plan to prototype over the next few months.
 >
 >Building community, beyond just expanding one's local network, enables scientists to gain exposure to new tools, workflows, and perspective from other technical communities.  Academic research, particulary the branch of wet lab biology I come from, does not tend to embrace open-source tools and ideals. Expanding my scientific community to include people from across the scientific spectrum, and the open source community has enhanced my productivity and helped me develop leadership and project management skills. 
 >
