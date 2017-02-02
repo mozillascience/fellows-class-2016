@@ -36,7 +36,15 @@ Who is the "audience"?
 - Will they participate in the formation of the project, if so, how?
 - Write a participant or user persona, if appropriate.
  
- 
+What are your intended outcomes? 
+>Outcomes do not need the be the end point, but significant indicators of progress. 
+>Outputs (running a basic R course) are separate from outcomes (students gaining familiarity with coding)
+
+- What is the result this project will achieve, what is the value of the project?
+- What will your project change or impact?
+- What does success look like for your project or your community?
+- How will you measure that change (put the short version here, see also Assessment section below to expand on this)
+
 Who are your collaborators? 
 
 - What makes you/collaborators uniquely positioned to solve the problem?
@@ -53,6 +61,7 @@ How will this project be sustained?
 What are the *core ideas* of your project?
 
 - Impact/influence? 
+- What are the outputs of your project? Tie each output to an outcome. 
 - Inform/educate? 
 - Facilitate/remove barriers? 
 - Transfom? What will be different? What will people do differently?
@@ -116,9 +125,13 @@ Include dates, events, deadlines and specifics where possible
 How will you assess your project?
 
 - What outcomes do you hope to acheive?
+ - What output is each outcome tied to?
  - How can these outcomes be measured?
 - How will users assess your project?
 - How will outside bodies assess your project?
+- Be sure to ask simple questions that get to the heart of your intended outcomes.
+ - Did it work? (Rather than did it happen.)
+ - How well is it working?
 
   
 Adapted from Zannah and Aurelia's resources: 
