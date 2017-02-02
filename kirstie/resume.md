@@ -34,12 +34,18 @@ Event | Location | Date | Role | Invited by
 * *TALK TITLE*; location; date; [link to talk](); [link to slides]()
 
 #### TRAININGS
-* TRAINING 1; [link to talk]()
+* Friendly GitHub Intro; [link to talk]()
 * TRAINING 2; [link to talk]()
 
 #### BLOGS
-* BLOG 1; [link to blog]()
-* BLOG 2; [link to blog]()
+* Introducing Kirstie; []()
+* Guest post: The Power of Open Data; [link to blog](http://www.ses.ac.uk/2016/08/31/guest-post-power-open-data/)
+
+#### INTERVIEWS
+* Data Stories by the Allen Institute for Brain Science (a video interview); [link to blog](https://www.alleninstitute.org/what-we-do/brain-science/news-press/articles/introducing-data-stories)
+* Tips for early career researchers on making data available (an interview with Figshare); [link to blog](https://figshare.com/articles/Tips_for_early_career_researchers_on_making_data_available_Neuroscience/4263302)
+* Supercomputing the teenage brain (an interview with Science Node); [link to article]( https://sciencenode.org/feature/supercomputing-the-teen-age-brain.php)
+* Toward troubleshooting the connectome (an interview with Genetic Engineering & Biotechnology News); [link to article](http://www.genengnews.com/gen-articles/toward-troubleshooting-the-connectome/5873?q=Neurons)
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
