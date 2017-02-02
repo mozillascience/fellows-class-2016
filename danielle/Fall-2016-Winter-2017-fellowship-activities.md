@@ -1,7 +1,7 @@
 ###Danielle Robinson, Oregon Health & Science University
 ###[@daniellecrobins](https://twitter.com/daniellecrobins)
 
-As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following September - December 2016: 
+As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following September 2016 - February 2017: 
 
 >In September, I collaborated with [Women in Science Portland](http://wisportland.weebly.com/) and [ChickTech PDX](https://portland.chicktech.org/) to host a three part workshop on [career development and negotiation for women in technical fields](https://science.mozilla.org/blog/reflections-on-women-in-stem) with [Jessica Williams](http://superwomanproject.com/). This workshop series brought ecologists, cyber security experts, data scientists, neuroscientists, software developers, project managers, actuaries, postdocs, PhD candidates, bioinformatitans, and other technical professional together in a welcoming environment to talk about our careers goals. 
 >
@@ -14,7 +14,19 @@ OpenCon's unique Advocacy Day matches conference atendees with representatives o
 >
 >I then returned to Portland to complete and defend my disseration on December 5, 2016, gave a talk at a new meetup in town, [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) "Mozilla Science Lab: Resources & community".
 >
->PS: Submit your talk for [csv,conf,v3](https://csvconf.com/) by February 15, 2017.
+>Many new projects are in the works for 2017. [OHSU Code Club](https://github.com/daniellecrobinson/OHSU-Code-Club) held its inagural meeting in January and thanks to collaborations with the bioDSP and Python summer club organizers, we already have a full schedule of workshops and informal hacky hour work-along meetings. Our first meeting brought out about 20 people, more than half of whom were from basic science departments and had never written a line of code! Code Club will focus on helping beginners learn basic coding skills and open source tools in a friendly enviornment, as well as building connections between OHSU students in different departments through student-lead workshops and skill-share sessions. 
+>
+>I also joined the organizing committees of several conferences and initiatives. 
+
+ - [CSV,Conf,v3](https://csvconf.com/) will take place this May in Portland OR. CSV,Conf brings together leaders and innovators in science, journalism, policy, and software development to talk about data and data tools. All are invited to submit talks (by February 15, 2017). 
+ - [Radian Data](http://radiandata.com/) is a project to build a platform that enables curation, annotation, and centralization of resources for open data practitioners, educators, and enthusiasts.  
+ - [Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/) is a campaign launching with the support of the early career advocacy group [Future of Research](http://futureofresearch.org/) to motivate and support early career researcher to advocate inside scientific socities to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts".
+
+In February, I helped to organize Portland's first [Data Rescue](http://calagator.org/events/1250471401) event. This event includes a JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. This event will prep attendees to join [Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) in March 2017.
+
+
+
+
 
 
 #### BLOGS
