@@ -17,12 +17,14 @@ OpenCon's unique Advocacy Day matches conference atendees with representatives o
 >Many new projects are in the works for 2017. [OHSU Code Club](https://github.com/daniellecrobinson/OHSU-Code-Club) held its inagural meeting in January and thanks to collaborations with the bioDSP and Python summer club organizers, we already have a full schedule of workshops and informal hacky hour work-along meetings. Our first meeting brought out about 20 people, more than half of whom were from basic science departments and had never written a line of code! Code Club will focus on helping beginners learn basic coding skills and open source tools in a friendly enviornment, as well as building connections between OHSU students in different departments through student-lead workshops and skill-share sessions. 
 >
 >I also joined the organizing committees of several conferences and initiatives. 
-
- - [CSV,Conf,v3](https://csvconf.com/) will take place this May in Portland OR. CSV,Conf brings together leaders and innovators in science, journalism, policy, and software development to talk about data and data tools. All are invited to submit talks (by February 15, 2017). 
- - [Radian Data](http://radiandata.com/) is a project to build a platform that enables curation, annotation, and centralization of resources for open data practitioners, educators, and enthusiasts.  
- - [Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/) is a campaign launching with the support of the early career advocacy group [Future of Research](http://futureofresearch.org/) to motivate and support early career researcher to advocate inside scientific socities to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts".
-
-In February, I helped to organize Portland's first [Data Rescue](http://calagator.org/events/1250471401) event. This event includes a JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. This event will prep attendees to join [Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) in March 2017.
+>
+>[CSV,Conf,v3](https://csvconf.com/) will take place this May in Portland OR. CSV,Conf brings together leaders and innovators in science, journalism, policy, and software development to talk about data and data tools. All are invited to submit talks (by February 15, 2017). 
+>
+>[Radian Data](http://radiandata.com/) is a project to build a platform that enables curation, annotation, and centralization of resources for open data practitioners, educators, and enthusiasts.  
+>
+>[Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/) is a campaign launching with the support of the early career advocacy group [Future of Research](http://futureofresearch.org/) to motivate and support early career researcher to advocate inside scientific socities to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts".
+>
+>In February, I helped to organize Portland's first [Data Rescue](http://calagator.org/events/1250471401) event. This event includes a JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. This event will prep attendees to join [Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) in March 2017.
 
 
 
