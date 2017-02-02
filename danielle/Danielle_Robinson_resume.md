@@ -38,7 +38,8 @@ TITLE | TECH USED | LINK | DESCRIPTION
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
 * [Reflections on my 1st hackathon: Science Hack Day PDX](https://science.mozilla.org/blog/science-hack-day-pdx)
 * [Reflections on Negotiation and Professional Development for Women in Science and Tech](https://science.mozilla.org/blog/reflections-on-women-in-stem)
-* [OpenCon: An Unexpected Journey](https://science.mozilla.org/blog)
+* [Advocacy and Activism: This is What a Scientist Looks Like](https://science.mozilla.org/blog/advocacy-we-are-scientists)
+* [OpenCon: An unexpected journey](https://science.mozilla.org/blog/opencon-an-unexpected-journey)
 
 
 
