@@ -15,15 +15,19 @@ Event | Location | Date | Role
 [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | December 13, 2016 | Lightning talk: "Mozilla Science Lab: Resources & community"
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer
 [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/) | Portland OR | On campus support for students and postdocs learning to code! Do it / teach it! | Organizer
-[Digital security for moms] (add link to GH) | Portland OR | Talk and workshop on how to level up your personal digital security.
+[Digital security for moms] (add link to GH) | Portland OR | January 15, 2017 | Talk and workshop on how to level up your personal digital security.
+[Data Rescue PDX](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Portland OR | February 3, 2017 | JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. 
+[Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) | Portland OR | March 3 & 4, 2017 | Workshops on webscraping and metadata creation on Friday will lead into a full day of hacking open data on Saturday. 
+
+
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
 [Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science
-Building local community via an inclusive hackathon, manuscript in preparation
-Radian Data
-Assisiting with journal data policies paper
+[Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections
+[Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website | A campaign support early career researchers efforts to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
+
 
 
 #### TRAININGS
