@@ -19,8 +19,6 @@ Event | Location | Date | Role
 [Data Rescue PDX](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Portland OR | February 3, 2017 | JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. 
 [Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) | Portland OR | March 3 & 4, 2017 | Workshops on webscraping and metadata creation on Friday will lead into a full day of hacking open data on Saturday. 
 
-
-
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
@@ -28,11 +26,11 @@ TITLE | TECH USED | LINK | DESCRIPTION
 [Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections
 [Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website | A campaign support early career researchers efforts to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
 
-
-
 #### TRAININGS
- [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Participant
- Library Carpentry 2017 Portland OR
+TITLE | TECH USED | LINK | DESCRIPTION
+----- | --------- | ---- | ------------
+ [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
+ [Library Carpentry Instructor Training](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) | May 4 & 5, 2017 | Portland OR | Participant
  
 #### BLOGS
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
