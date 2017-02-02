@@ -1,9 +1,9 @@
-##Project brief template
+## Project brief template 
 
 **The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, colaborators, funders, institutions, etc) and to help you develop a realistic assessment of resources and timeline for your project.** 
 
-**Fellowship Themes:**
-List the priorities of your fellowship that this project addresses.
+# **Fellowship Themes:** 
+## List the priorities of your fellowship that this project addresses.
 
 - Open source
 - Community building
@@ -16,9 +16,9 @@ List the priorities of your fellowship that this project addresses.
 - Open- friendly policy
 - Add your fellowship themes here
 
-**The Problem:** 
+# **The Problem:** 
 
-Describe the problem your project will address. (2-5 sentences) 
+## Describe the problem your project will address. (2-5 sentences) 
 >Large to small scale.
 
 - Who are the agents or players involved and peripheral to the issue?
@@ -26,13 +26,13 @@ Describe the problem your project will address. (2-5 sentences)
  - locally, nationally, globally
 - Who is not paying attention to this problem?
     
-**The Vision:** 
+# **The Vision:** 
  
-How does your project address the problem? (2-5 sentences)
+## How does your project address the problem? (2-5 sentences)
 
 - What is the impact or change you hope to make?
  
-Who is the audience? 
+## Who is the audience? 
 >Describe the people who will use and/or participate in your project.
 
 - What are their needs in order to participate in the project.
@@ -41,28 +41,28 @@ Who is the audience?
 - How will they access the project during formation and once it's complete.
 - Write participant or user personas, if appropriate.
  
-What are your intended outcomes? 
+## What are your intended outcomes? 
 >Outcomes do not need the be the end point, but significant indicators of progress. 
->Outputs (running a basic R course) are separate from outcomes (students gaining familiarity with coding)
+>Outcomes (for example, students learning to write in markdown) are separate from Outputs (running a basic markdown class) 
 
 - What is the result this project will achieve, what is the value of the project?
 - What will your project change or impact?
 - What does success look like for your project or your community?
 - How will you measure that change (put the short version here, see also Assessment section below to expand on this)
 
-Who are your collaborators? 
+## Who are your collaborators? 
 
 - What makes you/collaborators uniquely positioned to solve the problem?
 
-How will this project be sustained? 
+## How will this project be sustained? 
 
 - Beyond 6 mo, beyond 1 yr, indefinitely?
 - Will users/participants be involved in itteration and sustaining the project?
  
  
-**The proposal:** 
+# **The proposal:** #
  
-What are the *core ideas* of your project?
+## What are the *core ideas* of your project?
 >Brainstorm here to get central concepts down to *2-3 core ideas*. 
 
 - Impact/influence? 
@@ -72,7 +72,7 @@ What are the *core ideas* of your project?
 - Transfom? What will be different? What will people do differently?
   
   
-What resources are required for the project to succeed?
+## What resources are required for the project to succeed?
 
 - Money? 
 - Time?
@@ -80,25 +80,25 @@ What resources are required for the project to succeed?
 - Infrastructure?
  
  
-What is the minimum viable version of your project?
+## What is the minimum viable version of your project?
 
 - How will you know when the project is done?
  
  
-Who/what resources exist to address the problem now?
+## Who/what resources exist to address the problem now?
 
 - What are the gaps in exisiting systems? 
 - Why have other approaches failed?
 - How is this appraoch special or different?
  
-**The process:** 
+# **The process:** 
 
-What is your process going to look like? 
+## What is your process going to look like? 
  > Write out, stream of consiouness style how this project would unfold. Be as detailed as possible. What are the critical moments? What caveats/roadblocks are coming up? Use this exercise to identify key milestones. Now condense that into a timeline below. 
  
-**The timeline:** 
+# **The timeline:** 
 
-Include dates, events, deadlines and specifics where possible
+## Include dates, events, deadlines and specifics where possible
 
 - Two week sprint goal:
  - List of tasks
@@ -125,8 +125,8 @@ Include dates, events, deadlines and specifics where possible
  - Milestones completed
  - New sprint
  
-**Assessment:** 
-How will you assess your project?
+# **Assessment:** 
+## How will you assess your project?
 
 - What outcomes do you hope to acheive?
  - What output is each outcome tied to?
@@ -139,6 +139,7 @@ How will you assess your project?
 
   
 Adapted from Zannah and Aurelia's resources: 
+
 1. https://docs.google.com/document/d/1XCfmtvn6pV9Q20f5brbO6fkm7crfXcEXDF2nRsgo1o0/edit
 2. https://docs.google.com/forms/d/e/1FAIpQLSeYJTd7kpVjyOTceKjCEHsl-4a3vm-O5-c496gjoqF45eIufw/viewform
 3. https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/
