@@ -3,7 +3,9 @@
 ### Personal Details:
 
 #### Affiliation:
-Department of Psychiatry, University of Cambridge
+Department of Psychiatry, University of Cambridge, Cambridge, UK
+
+Turing Institute for Data Science, London, UK
 
 #### Contact:
 * **Email**: kw401 AT cam.ac.uk
@@ -18,16 +20,28 @@ As part of the 2016 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role | Invited by
 ----- | -------- | ---- | ---- | ---------
+[The Educated Brain at School: Late Childhood and Adolescence](http://www.languagesciences.cam.ac.uk/events/the-educated-brain-late-childhood-and-adolescence) | Cambridge, UK | 27th October 2016 | Invited speaker ([slides](https://doi.org/10.6084/m9.figshare.4087509.v1)) and workshop participant ([policy brief](http://www.publicpolicy.cam.ac.uk/news/educated-brain))
+[MozFest](https://mozillafestival.org/) | London, UK | 28th-30th October 2016 | Science space wrangler
 [OpenCon 2016](http://www.opencon2016.org/kirstiejane/opencon_2016_cambridge) | Washington DC, USA | 12th-14th November 2016 | Speaker ([workshop](http://sched.co/8tB1), [unconference](http://sched.co/8ss7)) and participant | Joe McArthur
 [CBU Open Science Workshop 2016](http://www.mrc-cbu.cam.ac.uk/openscience2016/) | MRC Cognition and Brain Sciences Unit, Cambridge, UK | 22nd November 2016 | Speaker  ([slides](https://dx.doi.org/10.6084/m9.figshare.4244996.v1)) | Rogier Kievit
 [OpenCon 2016 Cambridge](http://www.opencon2016.org/kirstiejane/opencon_2016_cambridge) | Moore Library, University of Cambridge, Cambridge, UK | 24th November 2016 | Organizer |
+[Teenage Cancer Trust Global AYA Congress](https://www.teenagecancertrust.org/about-us/what-we-do/professional-leadership/international-conference) | Edinburgh, UK | 5th-7th December 2016 | Keynote speaker ([slides](https://doi.org/10.6084/m9.figshare.4288151.v4))
+[Foreign Policy 100 Global Thinkers 2016 Awards Ceremony](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) | Washington DC, USA | 12th December 2016 | Award winner
+[Research software management, sharing and sustainability workshop](http://www.data.cam.ac.uk/research-software-management-sharing-and-sustainability-workshop) | British Library, London, UK & Moore Library, University of Cambridge, Cambridge, UK | 12th & 16th January 2017 | Discussion facilitator |
+[CamBRAIN NeuroTalks](https://cambrainsociety.com/events-2/cambrain-events/) | Cambridge Brew House, Cambridge, UK | 1st February 2017 | Speaker ([slides](https://doi.org/10.6084/m9.figshare.4602232.v1)) |
+[MQ Annual Meeting](https://www.mqmentalhealth.org/news-blog/post/mental-health-science-meeting-2017) | Amnesty International, London, UK | 2nd-3rd February 2017 | Poster presenter |
  | | | |
+ [Brainhack- Global Cambridge](http://events.brainhack.org/global2017/locations.html#cambridge) | Wolfson College, University of Cambridge, Cambridge, UK | 2nd-4th March 2017 | Organizer |
+ [Society of Biological Psychiatry](https://sobp.societyconference.com/) | San Diego, CA, USA | 18th-20th May 2017 | Speaker | Armin Raznahan
+Mozilla Science Lab Global Sprint | Stamford, CA, USA | 1st-2nd June 2017 | Organizer
 [International Conference for Cognitive Neuroscience (ICON)](http://www.icon2017.org/) | Amsterdam, Netherlands | 5th-8th August 2017 | Speaker | Dorothy Bishop
 [European College of Neuropsychopharmacology (ECNP) Congress ](http://2017.ecnp.eu/) | Paris, France | 2nd-5th September 2016 | Speaker | Sophia Frangou
+
 
 #### TALKS
 
 * *Structural brain development during adolescence and its relation to psychiatric disorders*; Department of Psychiatry, University of Edinburgh; 21st September 2016; [link to slides](https://dx.doi.org/10.6084/m9.figshare.3843405.v3)
+  * Met with Sue Fletcher-Watson, Andrew MacIntosh,  
 * *Structural brain development during adolescence and its relation to psychiatric disorders*; Department of Psychology, University of Bristol; 9th November 2016; [link to slides](https://dx.doi.org/10.6084/m9.figshare.3843405.v7)
   * Met with Jeff Bowers, Bruce Hood, Susanne Quadflieg, Rafael Carazo Salas, Kate Button
 * *Structural brain development during adolescence and its relation to psychiatric disorders*; Department of Psychiatry, University College London; 23rd November 2016; [link to slides](https://dx.doi.org/10.6084/m9.figshare.3843405.v7)
