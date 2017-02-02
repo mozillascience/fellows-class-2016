@@ -20,7 +20,9 @@ List the priorities of your fellowship that this project addresses.
 Describe the problem your project will address. (2-5 sentences) 
 
 - Who is affected by the problem?
-- What are the impacts of this problem?
+- Who are the agents or players involved and peripheral to the issue?
+- Who is not paying attention to this problem?
+- What are the concequences of this problem?
  - locally, nationally, globally
     
 **The Vision:** 
