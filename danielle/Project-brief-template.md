@@ -10,6 +10,7 @@ List the priorities of your fellowship that this project addresses.
 - Open education
 - Openly developed resource
 - Open science
+- Open web
 - Open access
 - Data sharing
 - Open- friendly policy
@@ -18,12 +19,12 @@ List the priorities of your fellowship that this project addresses.
 **The Problem:** 
 
 Describe the problem your project will address. (2-5 sentences) 
+>Large to small scale.
 
-- Who is affected by the problem?
 - Who are the agents or players involved and peripheral to the issue?
-- Who is not paying attention to this problem?
 - What are the concequences of this problem?
  - locally, nationally, globally
+- Who is not paying attention to this problem?
     
 **The Vision:** 
  
@@ -31,12 +32,14 @@ How does your project address the problem? (2-5 sentences)
 
 - What is the impact or change you hope to make?
  
-Who is the "audience"? 
+Who is the audience? 
+>Describe the people who will use and/or participate in your project.
 
-- Who will be impacted by this project?
-- What are their needs (or prereqs) in order to participate in the project.
+- What are their needs in order to participate in the project.
+- Are there prerequisites for participation in the project.
 - Will they participate in the formation of the project, if so, how?
-- Write a participant or user persona, if appropriate.
+- How will they access the project during formation and once it's complete.
+- Write participant or user personas, if appropriate.
  
 What are your intended outcomes? 
 >Outcomes do not need the be the end point, but significant indicators of progress. 
@@ -51,7 +54,6 @@ Who are your collaborators?
 
 - What makes you/collaborators uniquely positioned to solve the problem?
 
-
 How will this project be sustained? 
 
 - Beyond 6 mo, beyond 1 yr, indefinitely?
@@ -61,13 +63,13 @@ How will this project be sustained?
 **The proposal:** 
  
 What are the *core ideas* of your project?
+>Brainstorm here to get central concepts down to *2-3 core ideas*. 
 
 - Impact/influence? 
 - What are the outputs of your project? Tie each output to an outcome. 
 - Inform/educate? 
 - Facilitate/remove barriers? 
 - Transfom? What will be different? What will people do differently?
-> Brainstorm here to get central concepts down to *2-3 core ideas*. 
   
   
 What resources are required for the project to succeed?
