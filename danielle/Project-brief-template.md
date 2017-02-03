@@ -3,8 +3,12 @@
 **The goal of this exercise is to create a 1-3 page document that details your project to an audience of informed peers (colleagues, collaborators, funders, institutions, etc) and to help you develop a realistic assessment of resources and timeline for your project.** 
 
 
-# Part 1: Brainstorming you Vision 
-> A project planning exercise
+# Part 1: Brainstorming your Vision 
+>A project planning exercise
+>Work individually through Part 1
+>Split into pairs and pitch your project's core ideas and outcomes to your partner.
+>Report back to the group about your expereince with this exercise.
+
 ## The Problem: 
 
 ### Describe the problem your project will address. (2-5 sentences) 
@@ -39,7 +43,7 @@
 
 ### What are the intended outcomes? 
 >Outcomes are the change your project is intended to realize, as well as significant indicators of progress along the way. 
->Outcomes are separate from Outputs. For example, running a basic markdown class is an output, and students learning to write in markdown is an outcome. 
+>Outcomes are separate from Outputs. For example, running a basic markdown class is an output, and students learning to write in markdown and incorporating it into their workflows is an outcome. 
 
 - What does success look like for your project? 
 - What results will this project achieve? 
@@ -68,7 +72,7 @@
 - Transform? What will be different? What will people do differently?
 
 ## Fellowship or organization priorities
-> List the priorities of your fellowship/job/organization that this project addresses.
+> Do you work somewhere that has a strategic plan? You're going to need to talk about your project in the terms reflect what your organization values. List the priorities of your fellowship/job/organization that this project addresses.
 
 - Add your fellowship/job/organization themes here
 - Open source
