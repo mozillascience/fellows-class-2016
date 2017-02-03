@@ -43,7 +43,13 @@
 - Will they participate in the formation of the project, if so, how?
 - How will they access the project during formation and once it's complete.
 - Write participant or user personas, if appropriate.
- 
+
+## Who/what resources already exist to address the problem?
+
+- What are the gaps in exisiting systems? 
+- Why have other approaches failed?
+- How is this appraoch special or different?
+
 ## What are the intended outcomes? 
 >Outcomes are the change your project is intended to realize, as well as significant indicators of progress along the way. 
 >Outcomes are separate from Outputs. For example, running a basic markdown class is an output, and students learning to write in markdown is an outcome. 
@@ -81,55 +87,30 @@
 
 - Money? 
 - Time?
-- Collaborations? 
+- Expertise? 
 - Infrastructure?
+- Permission?
+- Other resouces?
  
 ## What is the minimum viable version of your project?
 
 - How will you know when the project is done?
-  
-## Who/what resources exist to address the problem now?
-
-- What are the gaps in exisiting systems? 
-- Why have other approaches failed?
-- How is this appraoch special or different?
- 
-# **The process:** 
 
 ## What is your process going to look like? 
- > Write out, stream of consiouness style how this project would unfold. Be as detailed as possible. What are the critical moments? What caveats/roadblocks are coming up? Use this exercise to identify key milestones. Now condense that into a timeline below. 
+ > Write out, in a stream of consiouness style, how this project will unfold. Be as detailed as possible. What are the critical moments? What roadblocks are you likely to encounter? Use this exercise to identify key milestones and potential issues. 
  
  - What are the outputs of your project? 
-   - Tie each output to an outcome. 
+  - Tie each output to an outcome from earlier in the exercise. 
  
-# **The timeline:** 
+# The timeline: 
+> Using your process narrative and targetted outcomes, break your project down into a series to sprints between now and the end point. 
+> Include dates, events, deadlines and specifics where possible.
 
-## Include dates, events, deadlines and specifics where possible
-
-- Two week sprint goal:
- - List of tasks
+- Example two week sprint:
+ - List of activities, outputs, milestones
  - List of roadblocks/issues
- - 1 milestone
-    
-- One month goal: 
- - List of tasks
- - List of roadblocks/issues
- - 1 milestone
- - New sprint
-    
-- Three month goal:
- - Milestones completed
- - Milestones to do
- - New sprint
-    
-- 6 month goal
- - Milestones completed
- - Milestones to do
- - New sprint
-    
-- Mozfest goal
- - Milestones completed
- - New sprint
+ - List collaborators and their responsibilities
+ - List resources needed for sprint
  
 # **Assessment:** 
 ## How will you assess your project?
@@ -139,6 +120,7 @@
  - How can these outcomes be measured?
 - How will users assess your project?
 - How will outside bodies assess your project?
+
 - Be sure to ask simple questions that get to the heart of your intended outcomes.
  - Did it work? (Rather than did it happen.)
  - How well is it working?
