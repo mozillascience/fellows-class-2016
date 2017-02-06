@@ -4,7 +4,7 @@
 >A project planning exercise.
 >I've been trying to improve my strategy and get out of some project planning habits. This exercise pulls from Amira's [Women and Web session at Mozfest](https://medium.com/read-write-participate/women-web-strong-7e50f123311e#.4gds7zlt4), Open Canvas, Open Leadership materials, and conversations with my fellowship mentor Robin Champieux. I hope this exercise will help you with strategic planning for your projects!
 
-## 1.1 Workflow
+## 1.1 Workflow:
 >Danielle runs through the exercise. (10 min)
 >Work individually through the prompts in Part 1. (20 min)
 >Make a 1-2 minute pitch that involves the project's core ideas and outcomes. 
@@ -97,8 +97,8 @@
 - Be sure to ask simple questions that get to the heart of the intended outcomes.
  - Did it work? (Rather than did it happen.)
  - How well is it working?
-
- ## 1.6 Core ideas: 
+ 
+## 1.6 Core ideas: 
 > Bullet point ideas that get to the heart of the project.
 > Brainstorm here to get central concepts down to *2-3 core ideas*, high level concepts central to the project, possibly outcomes. 
 
