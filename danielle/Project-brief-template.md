@@ -6,13 +6,21 @@
 
 ## 1.1 Workflow:
 >Danielle runs through the exercise. (10 min)
+>
 >Work individually through the prompts in Part 1. (20 min)
+>
 >Make a 1-2 minute pitch that involves the project's core ideas and outcomes. 
+>
 >Split into pairs and tell your partner. (10 min)
+>
 >Partner asks questions from Part 2.
+>
 >Hear your partner's pitch and ask questions. (10 min)
+>
 >Report back to the group about your experience with this exercise. (15 min)
+>
 >Complete Part 3 on your own!
+>
 >Send Danielle feedback about this session.
 
 ## 1.2 The Problem: 
@@ -119,7 +127,7 @@
 >Is your partner addressing the root of the problem or do their plans address peripheral issues?
 >The point of this is to get feedback before getting into the weeds of the practical and logistical details (that's Part 3, that you'll do on your own)!
 
-- #Example:# How to the core ideas of a project designed for impact in an academic department translate into an informal meetup setting? Or an audience of highschool students? Or an audience of unemployed people? A group of work-at-home moms in another country? 
+- Example: How to the core ideas of a project designed for impact in an academic department translate into an informal meetup setting? Or an audience of highschool students? Or an audience of unemployed people? A group of work-at-home moms in another country? 
 
  - If the project won't translate to other enviornments or audience groups - why? 
  - Can you learn something about the project's core ideas by considering other enviornments or audience groups?
