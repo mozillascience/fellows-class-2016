@@ -51,11 +51,11 @@ Date | Day   | City, Country             | Event
 10   | Fri   | Milton Keynes, UK         | NSPN 2 day meeting
 11   | Sat   | Deeping, UK               | Weekend recovering
 12   | Sun   | Deeping, UK               | Weekend relaxing
-13   | Mon   | London, UK                | Working at Turing Institute
-14   | Tue   | London, UK                | Applied for [MQ Innovation workshop](https://www.mqmentalhealth.org/articles/apply-for-the-innovation-workshop)
-15   | Wed   | London, UK                | Applied for [MQ Innovation workshop](https://www.mqmentalhealth.org/articles/apply-for-the-innovation-workshop)
-16   | Thurs | London, UK                | Applied for [MQ Innovation workshop](https://www.mqmentalhealth.org/articles/apply-for-the-innovation-workshop)
-17   | Fri   | London, UK                | Working at Turing Institute
+13   | Mon   | Cambridge, UK             | Working in Cambridge
+14   | Tue   | Cambridge, UK             | Working in Cambridge
+15   | Wed   | London, UK                | Working at Turing Institute
+16   | Thurs | London, UK                | Working at Turing Institute
+17   | Fri   | Cambridge, UK             | Working in Cambridge
 18   | Sat   | London, UK                | Babysitting niece
 19   | Sun   | Deeping, UK               | Weekend relaxing
 20   | Mon   | London, UK                | Working at Turing Institute
@@ -94,15 +94,15 @@ Date | Day   | City, Country             | Event
 16   | Sun   | Philadelphia, PA, USA     | Hanging out with friends
 17   | Mon   | Philadelphia, PA, USA     | Mackey lab visit
 18   | Tue   | Philadelphia, PA, USA     | Talk at Penn
-19   | Wed   | Philadelphia, PA, USA     | Mackey lab visit Institute
+19   | Wed   | Philadelphia, PA, USA     | Mackey lab visit
 20   | Thurs | Philadelphia, PA, USA     | Mackey lab visit
 21   | Fri   | Philadelphia, PA, USA     | Mackey lab visit
 22   | Sat   | Washington, DC, USA       | Science March
-23   | Sun   | Philadelphia, PA, USA     | Hanging out with friends
-24   | Mon   | Travel: Philadelphia, PA, USA TO London, UK     | Mackey lab visit
-25   | Tue   | Cambridge, UK             | Working in Cambridge
-26   | Wed   | London, UK                | Working at Turing Institute
-27   | Thurs | London, UK                | Working at Turing
+23   | Sun   | Travel: Washington DC, USA to New York, NY, USA    | Mozilla science fellows co-working
+24   | Mon   | New York, NY, USA         | Mozilla science fellows co-working
+25   | Tue   | New York, NY, USA         | Mozilla science fellows co-working
+26   | Wed   | New York, NY, USA         | Mozilla science fellows co-working
+27   | Thurs | Travel: New York, NY, USA TO London, UK  | Mackey lab visit
 28   | Fri   | London, UK                | Working at Turing Institute
 29   | Sat   | Deeping, UK               | Weekend relaxing
 30   | Sun   | Deeping, UK               | Langtoft 10k
@@ -112,10 +112,10 @@ Date | Day   | City, Country             | Event
 Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
 1    | Mon   | Deeping, UK               | Bank holiday relaxing
-2    | Tue   | Cambridge, UK             | Working in Cambridge ***??csv,conf***
-3    | Wed   | London, UK                | Working at Turing  Institute ***??csv,conf***
-4    | Thurs | London, UK                | Working at Turing Institute ***??csv,conf***
-5    | Fri   | London, UK                | Working at Turing Institute ***??csv,conf***
+2    | Tue   | Cambridge, UK             | Working in Cambridge
+3    | Wed   | London, UK                | Working at Turing  Institute
+4    | Thurs | London, UK                | Working at Turing Institute
+5    | Fri   | London, UK                | Working at Turing Institute
 6    | Sat   | Deeping, UK               | Weekend relaxing
 7    | Sun   | Deeping, UK               | Weekend relaxing
 8    | Mon   | London, UK                | Working at Turing Institute
@@ -132,23 +132,23 @@ Date | Day   | City, Country             | Event
 19   | Fri   | San Diego, CA, USA        | [Society of Biological Psychiatry Conference](https://sobp.societyconference.com/)
 20   | Sat   | San Diego, CA, USA        | [Society of Biological Psychiatry Conference](https://sobp.societyconference.com/)
 21   | Sun   | San Diego, CA, USA        | Hanging out with friends
-22   | Mon   | ??San Diego, CA, USA      | ??
-23   | Tue   | ??San Diego, CA, USA      | ??
-24   | Wed   | ??San Diego, CA, USA      | ??
-25   | Thurs | ??San Diego, CA, USA      | ??
-26   | Fri   | ??San Diego, CA, USA      | ??
-27   | Sat   | ??San Diego, CA, USA      | ??
-28   | Sun   | ??Stamford, CA, USA       | ??Poldrack lab visit
-29   | Mon   | ??Stamford, CA, USA       | ??Poldrack lab visit
-30   | Tue   | ??Stamford, CA, USA       | ??Poldrack lab visit
-31   | Wed   | ??Stamford, CA, USA       | ??Poldrack lab visit
+22   | Mon   | Travel: San Diego, CA, USA to London, UK | [Society of Biological Psychiatry Conference](https://sobp.societyconference.com/)
+23   | Tue   | Deeping, UK               | Home not working
+24   | Wed   | Deeping, UK               | Home not working
+25   | Thurs | Deeping, UK               | Home not working
+26   | Fri   | Deeping, UK               | Home not working
+27   | Sat   | Deeping, UK               | Weekend relaxing
+28   | Sun   | Travel: London, UK to San Francisco, CA, USA | Poldrack lab visit
+29   | Mon   | Stanford, CA, USA         | Poldrack lab visit
+30   | Tue   | Stanford, CA, USA         | Poldrack lab visit
+31   | Wed   | Berkeley, CA, USA         | BIDS visit
 
 ### June 2017
 
 Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
-1    | Thurs | ??Stamford, CA, USA       | Mozilla Science Lab Global Sprint
-2    | Fri   | ??Stamford, CA, USA       | Mozilla Science Lab Global Sprint
+1    | Thurs | Stanford, CA, USA       | Mozilla Science Lab Global Sprint
+2    | Fri   | Stanford, CA, USA       | Mozilla Science Lab Global Sprint
 3    | Sat   | San Francisco, CA, USA    | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
 4    | Sun   | ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
 5    | Mon   | ALC journey, CA, USA      | [AIDS/Lifecycle](http://www.tofighthiv.org/site/TR?px=1175279&fr_id=1880&pg=personal)
