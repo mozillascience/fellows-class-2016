@@ -4,7 +4,7 @@
 
 You've probably heard of [Firefox](https://www.mozilla.org/en-GB/firefox/products/) - an open source web browser - and you may know that it is made by the folks at [Mozilla](https://www.mozilla.org/en-GB/). But that's where most people's experience with Mozilla ends.
 
-I'm a current Mozilla Fellow for Science and I'd like to spend this time explaining a little about what I do, why I do it, and how you can get involved.
+I'm a current [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and I'd like to explain a little about what I do, why I do it, and how you can get involved.
 
 ## Who are Mozilla?
 
