@@ -218,12 +218,12 @@ Date | Day   | City, Country             | Event
 
 Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
-1    | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
+1    | Tue   | :mortar_board: Cambridge, UK   | Working in Cambridge
 2    | Wed   | :uk: London, UK                | Working at Turing Institute
 3    | Thurs | :uk: London, UK                | Working at Turing Institute
 4    | Fri   | :uk: London, UK                | Working at Turing Institute
-5    | Sat   | :tulip: Amsterdam, Netherlands    | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
-6    | Sun   | :tulip: Amsterdam, Netherlands    | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
+5    | Sat   | :tulip: Amsterdam, Netherlands | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
+6    | Sun   | :tulip: Amsterdam, Netherlands | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
 7    | Mon   | :tulip: Amsterdam, Netherlands    | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
 8    | Tue   | :tulip: Amsterdam, Netherlands    | [International Conference for Cognitive Neuroscience](http://www.icon2017.org/)
 9    | Wed   | :uk: London, UK                | Working at Turing Institute
