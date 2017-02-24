@@ -1,40 +1,66 @@
-##Meta Résumé
+## Meta Résumé
 
-###Teon Brooks, Stanford University
-####T:[@teon_io](https://twitter.com/teon_io)
-####G: [@teonbrooks](https://github.com/teonbrooks)
+### Teon Brooks, Stanford University
+#### T: [@teon_io](https://twitter.com/teon_io)
+#### G: [@teonbrooks](https://github.com/teonbrooks)
 
-As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following:
+As part of the 2016 Mozilla Fellows for Science program, here is a map of places I have traveled to during my fellowship:
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Hk9yLFn91cEpiqPcWKxOFvH5yhg" width="640" height="480"></iframe>
+
+As part of the fellows program, I completed/participated in the following:
 
 #### EVENTS
 
-Event | Location | Date | Role | Title/Descriptor
------ | -------- | ---- | ---- | ----------------
-[Mozilla Fellows Onboarding](https://science.mozilla.org/blog/2016-fellows-onboarding-recap) | Toronto, ON  | 2016 Sep 12-15 | Attendee | Getting to know fellow fellows ;)
-[World Maker Faire](http://makerfaire.com/maker/entry/58916/) | New York, NY  | 2016 Oct-2 | Panelist | Accessible Future of Neuroscience
-[Dissertation Defense](https://twitter.com/hashtag/teondefends) | New York, NY | 2016 Oct-13 | Speaker | Minding the Gap between Eyetracking and Neurophysiology in Reading
-[Mozilla Festival](http://mozillafestival.org) | London, UK | 2016 Oct-28 | Attendee/Speaker | Annual Festivities
-[EmojiCon](http://2016.emojicon.co) | San Francisco, CA | 2016 Nov 4-5 | Hacker | Emoji Semantic Network
-[Science Hack Day](http://sf.sciencehackday.org) | San Francisco, CA | 2016 Nov 12-13 | Attendee | Worked to integrate OpenBCI with MNE-Python
-[BrainHack SF](http://brainhack.org/) | TBA | 2017 Mar 3-4 | Co-organizer |
-[Docathon](https://bids.github.io/docathon/) | Berkeley, CA | 2017 Mar 6-10 | Co-organizer | A week-long documentation sprint of open-source projects
-[Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | 2017 Mar 10-11 | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
-[Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | 2017 Mar 22-25 | A week-long gathering to discuss development and curation of open-source hardware for scientific research
-[Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | 2017-Mar27 | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
-
-
+Date | Event | Location | Role | Title/Descriptor | Blog (optional)
+---- | ----- | -------- | ---- | ---------------- | ---------------
+2016 Sep 12-15 | [Mozilla Fellows Onboarding](https://science.mozilla.org/blog/2016-fellows-onboarding-recap) | Toronto, ON  | Attendee | Getting to know fellow fellows ;)
+2016 Oct 02    | [World Maker Faire](http://makerfaire.com/maker/entry/58916/) | New York, NY  | Panelist | Accessible Future of Neuroscience
+2016 Oct 13    | [Dissertation Defense](https://twitter.com/hashtag/teondefends) | New York, NY | Speaker | Minding the Gap between Eyetracking and Neurophysiology in Reading
+2016 Oct 28-30 | [Mozilla Festival](https://youtu.be/_NH63TeOE9c) | London, UK | Attendee/Lightning Talker | Annual Festivities
+2016 Nov 4-5   | [EmojiCon](http://2016.emojicon.co) | San Francisco, CA | Hacker | Emoji Semantic Network
+2016 Nov 12-13 | [Science Hack Day](http://sf.sciencehackday.org) | San Francisco, CA | Attendee | Worked to integrate OpenBCI with MNE-Python | [#ScienceHackDay](https://medium.com/the-traveling-scientist/sciencehackday-dd430b1685d6#.qcsprmi7c)
+2017 Feb 07    | [OpenCon SF](http://futureofresearch.org/2017/01/31/opencon-san-francisco-satellite-event-at-manylabs-5-30-9pm-tues-feb-7th/) | San Francisco, CA | Participant | An evening of talks on ways of working open
+2017 Mar 03-04 | [BrainHack SF](http://brainhack.org/) | TBA | Co-organizer |
+2017 Mar 06-10 | [Docathon](https://bids.github.io/docathon/) | Berkeley, CA | Co-organizer | A week-long documentation sprint of open-source projects
+2017 Mar 10-11 | [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | Mentor | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
+2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant | A week-long gathering to discuss development and curation of open-source hardware for scientific research
+2017 Mar 27    | [Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
+2017 Apr 22    | [March for Science](https://www.marchforscience.com/) | Washington, DC | Co-organizer | A march, rally, and teach-in in support of Science | [Open and Inclusive Science](https://science.mozilla.org/blog/sciencemarch)
+2017 Jun 01-02 | [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | Remote | Co-organizer | Two-day sprint to  hack on open science and open data projects
+2017 Jun 11-17 | Mozilla Fellows Offboarding | South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
+2017 Jun 25-29 | [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/ohbm2017) | Vancouver, BC | Attendee | Conference on human brain mapping
 
 #### TALKS
-Title (slides) | Event | Location | Date | Additional Media
--------------- | ----- | -------- | ---- | ----------------
-[Accesible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | 2016-Oct-28 | [Pub](http://makerfaire.com/maker/entry/58916/)
-[Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | Mozilla Festival | London, UK | 2016-Oct-29 | [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
+
+Date | Title (slides) | Event | Location | Additional Media
+---- | -------------- | ----- | -------- | ----------------
+2016 Oct 28 | [Accesible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | [Pub](http://makerfaire.com/maker/entry/58916/)
+2016-Oct-29 | [Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | Mozilla Festival | London, UK | [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
 
 #### TRAININGS
 
+Date | Event | Location | Additional Media
+---- | ----- | -------- | ----------------
+2017 Apr 14-15 | Mini-WOW | Portland, OR
+2017 Apr 28 | Mini-WOW | New York, NY
+
+
+
 #### BLOGS
-[Introducing the 2016 Mozilla Science Fellows: Teon Brooks](https://science.mozilla.org/blog/intro-to-teon)
-[the traveling scientist: science + code + tech + travel](https://teonbrooks.wordpress.com/)
+##### [Mozilla Science Lab](https://science.mozilla.org/blog)
+
+- [Introducing the 2016 Mozilla Science Fellows: Teon Brooks](https://science.mozilla.org/blog/intro-to-teon)
+- [Open and Inclusive Science at #ScienceMarch](https://science.mozilla.org/blog/sciencemarch)
+
+##### [the traveling scientist](https://www.medium.com/the-traveling-scientist)
+
+- [inaugural post](https://medium.com/the-traveling-scientist/inaugural-post-e68ed7caee2c#.91ixb4i3h)
+- [#ScienceHackDay](https://medium.com/the-traveling-scientist/sciencehackday-dd430b1685d6#.pp0nj0rte)
+- [a scientist studying abroad](https://medium.com/the-traveling-scientist/a-scientist-studying-abroad-cf981de045b#.4jyjrfad1)
+- [upcoming coding sprints!](https://medium.com/the-traveling-scientist/upcoming-coding-sprints-1fc2ae3c6d24#.79zp2ezht)
+- [a few remarks on the planned march for science](https://medium.com/the-traveling-scientist/a-few-remarks-on-the-planned-march-for-science-bfcea380960#.mugnooygm)
+
 
 #### PROJECTS
 TITLE | TECH USED | DESCRIPTION

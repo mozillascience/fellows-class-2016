@@ -249,3 +249,63 @@ Fellowship Journal
 - Discussed some platform issues with a member of the Science March committee
 - Joined several chats related to the Science March
 - Sent an abstract for a workshop on new approaches to cognitive science education
+
+## Jan 29, 2017
+- Wrote a [blog post](https://teonbrooks.wordpress.com/2017/01/29/a-few-remarks-on-the-planned-march-for-science/) about some considerations for the [March for Science](https://marchforscience.com/)
+
+## Jan 30, 2017
+- Joined the Science March organizing committee
+
+## Jan 31, 2017
+- Sent my passport off for renewal
+
+## Feb 01, 2017
+- Fellows Call
+
+## Feb 06, 2017
+Workweek
+
+## Feb 07, 2017
+Workweek
+OpenCon SF
+
+## Feb 08, 2017
+Workweek
+
+## Feb 09, 2017
+Workweek
+
+## Feb 10, 2017
+Workweek
+
+## Feb 14, 2017
+- Reblogged a [post](https://science.mozilla.org/blog/sciencemarch) for MSL on an Open and Inclusive Science about the [March for Science](https://marchforscience.com/)
+
+## Feb 15, 2017
+- Fellows Call
+
+## Feb 16, 2017
+- MSL Community Call
+- Meeting with Nina, NYU
+- MFS Point Agenda Call
+
+## Feb 17, 2017
+- Potential Partner Call for MFS
+
+## Feb 19, 2017
+- Potential Partner Call for MFS
+
+## Feb 20, 2017
+- MSL Book Chat
+- MFS Partnerships Call
+
+## Feb 22, 2017
+- MFS partnership stuff
+
+## Feb 23, 2017
+- [Press Release](https://www.marchforscience.com/press/) for MFS
+- MFS partnership stuff
+- MFS Point Agenda Call
+
+## Feb 24, 2017
+- MFS partnership stuff
