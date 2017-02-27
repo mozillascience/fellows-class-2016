@@ -55,11 +55,11 @@ Date | Day   | City, Country             | Event
 14   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
 15   | Wed   | :uk: London, UK                | Working at Turing Institute
 16   | Thurs | :uk: London, UK                | Working at Turing Institute
-17   | Fri   | :mortar_board: Cambridge, UK             | Working in Cambridge
+17   | Fri   | :mortar_board: Cambridge, UK             | Working in Cambridge & talk at [Cambridge Science Festival]()
 18   | Sat   | :uk: London, UK                | Babysitting niece
 19   | Sun   | :dog: Deeping, UK               | Weekend relaxing
 20   | Mon   | :uk: London, UK                | Working at Turing Institute
-21   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
+21   | Tue   | :mortar_board: Cambridge, UK             | [Cambridge Neuroscience: Inflamed Mind conference]() & talk at [Cambridge Science Festival]()
 22   | Wed   | :uk: London, UK                | I AM BEAST school event
 23   | Thurs | :uk: London, UK                | I AM BEAST evening outreach talk
 24   | Fri   | :uk: London, UK                | Working at Turing Institute
