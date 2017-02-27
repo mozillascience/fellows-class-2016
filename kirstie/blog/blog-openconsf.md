@@ -20,7 +20,7 @@ Our first invited speaker was the inspirational [Stephanie Santoso](INSERT LINK)
 
 The dynamic and passionate [Mónica Feliú-Mójer](INSERT LINK) then showed us the most exceptional video of an octopus so brilliantly camouflaged that we needed to watch the clip in slow motion to even spot it!
 
-***[NOTE: INSERT VIDEO]***
+[![Octopus Camouflage iBiology video](https://img.youtube.com/vi/bRKxwuv_-dI/0.jpg)](https://youtu.be/bRKxwuv_-dI)
 
 The point was not simply to see ridiculously cool cephalopods in action, but to demonstrate the power of sharing scientific knowledge with a broad audience. The videos on [iBiology](https://www.ibiology.org/) disseminate research findings in an much more engaging way than traditional academic journal articles. ***[ADD MORE INFO HERE]***
 
