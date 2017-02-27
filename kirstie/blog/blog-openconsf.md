@@ -26,4 +26,6 @@ In true OpenCon community style we had some food and drinks, and then the floor 
 * [Meryl Horn](INSERT LINK) introduced us to the [Carry the One Radio](http://www.carrytheoneradio.com/) podcast.
 * Mozilla fellow [Danielle Robinson]() pulled up some slides she had on her laptop and gave a quick tour of the [Mozilla Science Lab community](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/danielle/Mozilla%20-%20OpenConSF.pdf).
 
+![](,./images/OpenCon_Danielle.JPG)
+
 It was so much fun getting to represent the Mozilla Science Lab all four fellows together. We're usually in different places and we love our biweekly check in calls, but there's something special about all going out to talk Open Science together!
