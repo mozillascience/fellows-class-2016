@@ -10,9 +10,13 @@ The OpenCon [satellite events](http://www.opencon2016.org/satellites) held aroun
 
 Bruno, Danielle, Kirstie and Teon are halfway through their Mozilla science fellowship so we all came together for a [workweek in San Francisco](LINK TO AURE'S POST) to share skills, give and get feedback on our projects, and inspire each other with new ideas. By pure coincidence it also gave us the chance to attend [OpenCon SF](http://www.opencon2016.org/opencon_san_francisco).
 
+![](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/kirstie/images/OpenCon_fellows.JPG)
+
 The night kicked off with an [introduction and welcome](https://f1000research.com/slides/6-114) from the event organizer [Gary McDowell](INSERT LINK).
 
 Our first invited speaker was the inspirational [Stephanie Santoso](INSERT LINK) who spoke on building a [Nation of Makers](http://www.nationofmakers.us/). ***[ADD MORE INFO HERE]***
+
+![](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/kirstie/images/OpenCon_Santoso.JPG)
 
 The dynamic and passionate [Mónica Feliú-Mójer](INSERT LINK) then showed us the most exceptional video of an octopus so brilliantly camouflaged that we needed to watch the clip in slow motion to even spot it!
 
@@ -20,12 +24,14 @@ The dynamic and passionate [Mónica Feliú-Mójer](INSERT LINK) then showed us t
 
 The point was not simply to see ridiculously cool cephalopods in action, but to demonstrate the power of sharing scientific knowledge with a broad audience. The videos on [iBiology](https://www.ibiology.org/) disseminate research findings in an much more engaging way than traditional academic journal articles. ***[ADD MORE INFO HERE]***
 
+![](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/kirstie/images/OpenCon_FeliuMojer.JPG)
+
 In true OpenCon community style we had some food and drinks, and then the floor was open for anyone in the room who wanted to share their work:
 
 * [Samantha Hindle](INSERT LINK) told us all about preprints in biology from [ASAPbio](http://asapbio.org/).
 * [Meryl Horn](INSERT LINK) introduced us to the [Carry the One Radio](http://www.carrytheoneradio.com/) podcast.
 * Mozilla fellow [Danielle Robinson]() pulled up some slides she had on her laptop and gave a quick tour of the [Mozilla Science Lab community](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/danielle/Mozilla%20-%20OpenConSF.pdf).
 
-![](,./images/OpenCon_Danielle.JPG)
+![](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/kirstie/images/OpenCon_Danielle.JPG)
 
 It was so much fun getting to represent the Mozilla Science Lab all four fellows together. We're usually in different places and we love our biweekly check in calls, but there's something special about all going out to talk Open Science together!
