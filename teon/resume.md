@@ -21,7 +21,7 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 2016 Nov 4-5   | [EmojiCon](http://2016.emojicon.co) | San Francisco, CA | Hacker | Emoji Semantic Network
 2016 Nov 12-13 | [Science Hack Day](http://sf.sciencehackday.org) | San Francisco, CA | Attendee | Worked to integrate OpenBCI with MNE-Python | [#ScienceHackDay](https://medium.com/the-traveling-scientist/sciencehackday-dd430b1685d6#.qcsprmi7c)
 2017 Feb 07    | [OpenCon SF](http://futureofresearch.org/2017/01/31/opencon-san-francisco-satellite-event-at-manylabs-5-30-9pm-tues-feb-7th/) | San Francisco, CA | Participant | An evening of talks on ways of working open
-2017 Mar 03-04 | [BrainHack SF](http://brainhack.org/) | TBA | Co-organizer |
+2017 Mar 03-04 | [BrainHack SF](https://sfbrainhack.github.io/) | San Francisco, CA | Co-organizer | A community-driven hackathon for neuroscience projects
 2017 Mar 06-10 | [Docathon](https://bids.github.io/docathon/) | Berkeley, CA | Co-organizer | A week-long documentation sprint of open-source projects
 2017 Mar 10-11 | [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | Mentor | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
 2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant | A week-long gathering to discuss development and curation of open-source hardware for scientific research

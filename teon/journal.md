@@ -262,31 +262,36 @@ Fellowship Journal
 ## Feb 01, 2017
 - Fellows Call
 
+## Feb 03, 2017
+- Google Brain Residency rejection :(
+
 ## Feb 06, 2017
-Workweek
+- Workweek
+- Received passport
 
 ## Feb 07, 2017
-Workweek
-OpenCon SF
+- Workweek
+- OpenCon SF
 
 ## Feb 08, 2017
-Workweek
+- Workweek
 
 ## Feb 09, 2017
-Workweek
+- Workweek
 
 ## Feb 10, 2017
-Workweek
+- Workweek
 
 ## Feb 14, 2017
 - Reblogged a [post](https://science.mozilla.org/blog/sciencemarch) for MSL on an Open and Inclusive Science about the [March for Science](https://marchforscience.com/)
 
 ## Feb 15, 2017
 - Fellows Call
+- Decided to not submit HHMI application
 
 ## Feb 16, 2017
 - MSL Community Call
-- Meeting with Nina, NYU
+- Meeting with Nina Smith, director of development at NYU
 - MFS Point Agenda Call
 
 ## Feb 17, 2017
@@ -309,3 +314,24 @@ Workweek
 
 ## Feb 24, 2017
 - MFS partnership stuff
+
+## Feb 25, 2017
+- Volunteered at the MADE (video game museum)
+- Met with Alex to discuss NeuroJS & expfactory
+
+## Feb 27, 2017
+- Potential Partner Call for MFS
+- MFS partnership stuff
+- Reorganized expfactory-experiments
+- Lunch with Buzzfeed fellows
+
+## Feb 28, 2017
+- Potential Partner Call for MFS
+- MFS partnership stuff
+- More work on the expfactory-experiments structure: standalone experiment support
+- Worked on fellows blog post
+
+## Mar 01, 2017
+- Fellows Call
+- MFS partnership stuff
+- expfactory-experiments work
