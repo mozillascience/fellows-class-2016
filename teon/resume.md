@@ -24,12 +24,14 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 2017 Mar 03-04 | [BrainHack SF](https://sfbrainhack.github.io/) | San Francisco, CA | Co-organizer | A community-driven hackathon for neuroscience projects
 2017 Mar 06-10 | [Docathon](https://bids.github.io/docathon/) | Berkeley, CA | Co-organizer | A week-long documentation sprint of open-source projects
 2017 Mar 10-11 | [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | Mentor | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
-2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant | A week-long gathering to discuss development and curation of open-source hardware for scientific research
+2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant/Presenter | A week-long gathering to discuss development and curation of open-source hardware for scientific research
 2017 Mar 27    | [Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
+2017 Apr 14-15 | Mini-WOW | Portland, OR | Co-organizer | Working Open Workshop: a two-day event on the practice of working openly
 2017 Apr 22    | [March for Science](https://www.marchforscience.com/) | Washington, DC | Co-organizer | A march, rally, and teach-in in support of Science | [Open and Inclusive Science](https://science.mozilla.org/blog/sciencemarch)
 2017 Jun 01-02 | [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | Remote | Co-organizer | Two-day sprint to  hack on open science and open data projects
 2017 Jun 11-17 | Mozilla Fellows Offboarding | South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
 2017 Jun 25-29 | [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/ohbm2017) | Vancouver, BC | Attendee | Conference on human brain mapping
+2017 Oct 27-29 | [Mozilla Festival](https://mozillafestival.org/) | London, UK | Wrangler | Annual Festivities
 
 #### TALKS
 
@@ -67,3 +69,4 @@ TITLE | TECH USED | DESCRIPTION
 ----- | --------- | ------------
 [openexp](https://github.com/openexp/openexp) | JS | an open-source desktop app for running experiments and collecting behavioral and physiological data
 [expfactory](http://expfactory.org/) | JS | an open-source environment to run and deploy behavioral experiments both locally and on the web
+[March For Science](https://www.marchforscience.com/) | email/phone/IRL | co-lead of partnerships to mobilize people and organizations to marches around the world. addressing the role of science in our lives
