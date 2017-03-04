@@ -24,6 +24,7 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 2017 Mar 03-04 | [BrainHack SF](https://sfbrainhack.github.io/) | San Francisco, CA | Co-organizer | A community-driven hackathon for neuroscience projects
 2017 Mar 06-10 | [Docathon](https://bids.github.io/docathon/) | Berkeley, CA | Co-organizer | A week-long documentation sprint of open-source projects
 2017 Mar 10-11 | [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | Mentor | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
+2017 Mar 20-21 | Python+GitHub Workshop | Santiago, Chile | Organizer | A two-day workshop on basic Python and GitHub skills
 2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant/Presenter | A week-long gathering to discuss development and curation of open-source hardware for scientific research
 2017 Mar 27    | [Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
 2017 Apr 14-15 | Mini-WOW | Portland, OR | Co-organizer | Working Open Workshop: a two-day event on the practice of working openly
@@ -38,12 +39,13 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 Date | Title (slides) | Event | Location | Additional Media
 ---- | -------------- | ----- | -------- | ----------------
 2016 Oct 28 | [Accesible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | [Pub](http://makerfaire.com/maker/entry/58916/)
-2016-Oct-29 | [Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | Mozilla Festival | London, UK | [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
+2016 Oct 29 | [Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | Mozilla Festival | London, UK | [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
 
 #### TRAININGS
 
 Date | Event | Location | Additional Media
 ---- | ----- | -------- | ----------------
+2017 Mar 20-21 | Python+GitHub Workshop at Derechos Digitales | Santiago, Chile
 2017 Apr 14-15 | Mini-WOW | Portland, OR
 2017 Apr 28 | Mini-WOW | New York, NY
 
