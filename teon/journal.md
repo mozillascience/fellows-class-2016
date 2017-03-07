@@ -335,3 +335,28 @@ Fellowship Journal
 - Fellows Call
 - MFS partnership stuff
 - expfactory-experiments work
+
+## March 02, 2017
+- expfactory call with researchers at Occidential
+- MFS Point Agenda Call
+
+## March 03, 2017
+- Partnership committee Onboarding
+- MFS partnership stuff
+- expfactory-experiments works
+- BrainHack SF
+
+## March 04, 2017
+- BrainHack SF
+  - worked on the BIDS-MEG spec
+  - worked on repackaging expfactory-battery now expfactory-common
+  - began to extract the io module from MNE to make a standalone package to
+    potentially generate a common ephys standard
+
+## March 05, 2017
+- continued work at BrainHack SF
+
+## March 06, 2017
+- Docathon at Berkeley
+- Meeting with a Googler
+- Meeting with a potential MFS partner
