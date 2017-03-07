@@ -45,6 +45,7 @@ Date | Title (slides) | Event | Location | Additional Media
 
 Date | Event | Location | Additional Media
 ---- | ----- | -------- | ----------------
+2017 Mar 05 | Building Video Games in Scratch at The MADE | Oakland, CA
 2017 Mar 20-21 | Python+GitHub Workshop at Derechos Digitales | Santiago, Chile
 2017 Apr 14-15 | Mini-WOW | Portland, OR
 2017 Apr 28 | Mini-WOW | New York, NY
