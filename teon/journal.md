@@ -360,3 +360,29 @@ Fellowship Journal
 - Docathon at Berkeley
 - Meeting with a Googler
 - Meeting with a potential MFS partner
+
+## Mar 08, 2017
+- Flight to Montreal
+- MFS partnership stuff
+
+## Mar 09, 2017
+- MFS partnership stuff
+- MFS Point Agenda Call
+
+## Mar 10, 2017
+- Working Open Workshop
+
+## Mar 11, 2017
+- Working Open Workshop
+
+## Mar 13, 2017
+- Lots of MFS Partnership Stuff
+
+## Mar 14, 2017
+- [Press release](https://www.marchforscience.com/press/2017/3/13/60-organizations-join-march-for-science-network-of-satellite-marches-nears-400-globally-launching-scienceserves-videos)
+- expfactory-experiments
+- Booked accommodations for Santiago
+
+## Mar 15, 2017
+- Met with Tiago to discuss a potential workshop in Sao Paulo
+- Hanging out at Buzzfeed with their Open Lab peeps
