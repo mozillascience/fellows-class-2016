@@ -386,3 +386,13 @@ Fellowship Journal
 ## Mar 15, 2017
 - Met with Tiago to discuss a potential workshop in Sao Paulo
 - Hanging out at Buzzfeed with their Open Lab peeps
+
+## Mar 18, 2017
+- Caught up on MFS-related emails
+
+## Mar 19, 2017
+- Applied to internship at OpenAI
+
+## Mar 21, 2017
+- Rejection from OpenAI
+- Workshop with Steffania at Derechos Digitales
