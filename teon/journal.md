@@ -393,6 +393,9 @@ Fellowship Journal
 ## Mar 19, 2017
 - Applied to internship at OpenAI
 
+## Mar 20, 2017
+- Interview call with Duolingo
+
 ## Mar 21, 2017
 - Rejection from OpenAI
 - Workshop with Steffania at Derechos Digitales
