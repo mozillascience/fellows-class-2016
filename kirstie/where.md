@@ -59,9 +59,9 @@ Date | Day   | City, Country             | Event
 18   | Sat   | :uk: London, UK                | Babysitting niece
 19   | Sun   | :dog: Deeping, UK               | Weekend relaxing
 20   | Mon   | :uk: London, UK                | Working at Turing Institute
-21   | Tue   | :mortar_board: Cambridge, UK             | [Cambridge Neuroscience: Inflamed Mind conference]() & talk at [Cambridge Science Festival]()
-22   | Wed   | :uk: London, UK                | I AM BEAST school event
-23   | Thurs | :uk: London, UK                | I AM BEAST evening outreach talk
+21   | Tue   | :mortar_board: Cambridge, UK             | [Cambridge Neuroscience: Inflamed Mind conference](http://www.neuroscience.cam.ac.uk/events/event.php?permalink=dbbbdfb739) & talk at [Cambridge Science Festival](http://www.sciencefestival.cam.ac.uk/events/exploring-teenage-brain-limited-tickets-available-door)
+22   | Wed   | :uk: London, UK                | [I AM BEAST](http://www.sparkleanddark.com/i-am-beast) school event
+23   | Thurs | :uk: London, UK                | [I AM BEAST](http://www.sparkleanddark.com/i-am-beast) evening outreach talk
 24   | Fri   | :uk: London, UK                | Working at Turing Institute
 25   | Sat   | :dog: Deeping, UK               | Weekend relaxing
 26   | Sun   | :dog: Deeping, UK               | Weekend relaxing
@@ -69,28 +69,28 @@ Date | Day   | City, Country             | Event
 28   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
 29   | Wed   | :uk: London, UK                | Working at Turing Institute
 30   | Thurs | :uk: London, UK                | Working at Turing Institute
-31   | Fri   | :uk: London, UK                | Working at Turing Institute
+31   | Fri   | :uk: Oxford, UK                | Turing & Oxford mental health research planning meeting
 
 
 ### April 2017
 
 Date | Day   | City, Country             | Event
 ---- | ----- | ------------------------- | -----
-1    | Sat   | :dog: Deeping, UK               | Weekend relaxing
-2    | Sun   | :dog: Deeping, UK               | Weekend relaxing
-3    | Mon   | :uk: London, UK                | Working at Turing Institute
-4    | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
-5    | Wed   | :uk: London, UK                | Working at Turing Institute
+1    | Sat   | Travel: London, UK TO Orlando, FL, USA     | [ENDO 2017](https://www.endocrine.org/endo-2017)
+2    | Sun   | :us: Orlando, FL, USA               | Day at SeaWorld
+3    | Mon   | :us: Orlando, FL, USA                | Talk for [ENDO 2017](https://www.endocrine.org/endo-2017)
+4    | Tue   | Travel: Orlando, FL, USA TO Cambridge, UK             | [ENDO 2017](https://www.endocrine.org/endo-2017)
+5    | Wed   | :uk: London, UK                | [Hosting Suchana Seth at Turing Institute](https://www.turing.ac.uk/events/many-ways-can-algorithm-fair-talk-visiting-researcher-suchana-seth/)
 6    | Thurs | :uk: London, UK                | Working at Turing Institute
 7    | Fri   | :uk: London, UK                | Working at Turing Institute
 8    | Sat   | :dog: Deeping, UK               | Weekend relaxing
 9    | Sun   | :dog: Deeping, UK               | Weekend relaxing
 10   | Mon   | :uk: London, UK                | Working at Turing Institute
 11   | Tue   | :mortar_board: Cambridge, UK             | Working in Cambridge
-12   | Wed   | :uk: London, UK                | Working at Turing Institute
+12   | Wed   | :uk: London, UK                | Research day with artist
 13   | Thurs | :uk: London, UK                | Working at Turing Institute
 14   | Fri   | ??Deeping, UK             | Good Friday
-15   | Sat   | ??Travel: London, UK TO Philadelphia, PA, USA     | Mackey lab visit
+15   | Sat   | Travel: London, UK TO Philadelphia, PA, USA     | Mackey lab visit
 16   | Sun   | :us: Philadelphia, PA, USA     | Hanging out with friends
 17   | Mon   | :us: Philadelphia, PA, USA     | Mackey lab visit
 18   | Tue   | :us: Philadelphia, PA, USA     | Talk at Penn
@@ -98,11 +98,11 @@ Date | Day   | City, Country             | Event
 20   | Thurs | :us: Philadelphia, PA, USA     | Mackey lab visit
 21   | Fri   | :us: Philadelphia, PA, USA     | Mackey lab visit
 22   | Sat   | :us: Washington, DC, USA       | Science March
-23   | Sun   | Travel: Washington DC, USA to New York, NY, USA    | Mozilla science fellows co-working
-24   | Mon   | :us: New York, NY, USA         | Mozilla science fellows co-working
-25   | Tue   | :us: New York, NY, USA         | Mozilla science fellows co-working
-26   | Wed   | :us: New York, NY, USA         | Mozilla science fellows co-working
-27   | Thurs | Travel: New York, NY, USA TO London, UK  | Mackey lab visit
+23   | Sun   | Travel: Washington DC, USA to London, UK    | Mackey lab visit
+24   | Mon   | :uk: London, UK         | Working at Turing
+25   | Tue   | :mortar_board: Cambridge, UK        | GitHub workshop in Cambridge
+26   | Wed   | :uk: London, UK         | Working at Turing
+27   | Thurs | :uk: London, UK         | Working at Turing
 28   | Fri   | :uk: London, UK                | Working at Turing Institute
 29   | Sat   | :dog: Deeping, UK               | Weekend relaxing
 30   | Sun   | :dog: Deeping, UK               | Langtoft 10k
@@ -167,10 +167,10 @@ Date | Day   | City, Country             | Event
 18    | Sun   | :earth_africa: South Africa             | Mozilla Fellows off boarding
 19    | Mon   | ??                       | ??
 20    | Tue   | ??                       | ??
-21    | Wed   | :maple_leaf: Vancouver, BC, Canada    | Brainhack-Vancouver
-22    | Thurs | :maple_leaf: Vancouver, BC, Canada    | Brainhack-Vancouver
-23    | Fri   | :maple_leaf: Vancouver, BC, Canada    | Brainhack-Vancouver
-24    | Sat   | :maple_leaf: Vancouver, BC, Canada    | Brainhack-Vancouver
+21    | Wed   | :maple_leaf: Vancouver, BC, Canada    | Seeing friends
+22    | Thurs | :maple_leaf: Vancouver, BC, Canada    | [Brainhack-Vancouver](https://ohbm.github.io/hackathon2017/)
+23    | Fri   | :maple_leaf: Vancouver, BC, Canada    | [Brainhack-Vancouver](https://ohbm.github.io/hackathon2017/)
+24    | Sat   | :maple_leaf: Vancouver, BC, Canada    | [Brainhack-Vancouver](https://ohbm.github.io/hackathon2017/)
 25    | Sun   | :maple_leaf: Vancouver, BC, Canada    | [Human Brain Mapping conference](http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3734)
 26    | Mon   | :maple_leaf: Vancouver, BC, Canada    | [Human Brain Mapping conference](http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3734)
 27    | Tue   | :maple_leaf: Vancouver, BC, Canada    | [Human Brain Mapping conference](http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3734)
