@@ -10,6 +10,14 @@ As part of the 2016 Mozilla Fellows for Science program, here is a map of places
 
 As part of the fellows program, I completed/participated in the following:
 
+#### PROJECTS
+TITLE | TECH USED | DESCRIPTION
+----- | --------- | ------------
+[March For Science](https://www.marchforscience.com/) | email/phone/IRL | co-director of partnerships to mobilize people and organizations to marches around the world. addressing the role of science in our lives
+[openexp](https://github.com/openexp/openexp) | JS | an open-source desktop app for running experiments and collecting behavioral and physiological data
+[expfactory](http://expfactory.org/) | JS | an open-source environment to run and deploy behavioral experiments both locally and on the web
+
+
 #### EVENTS
 
 Date | Event | Location | Role | Title/Descriptor | Blog (optional)
@@ -27,11 +35,12 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 2017 Mar 20-21 | Python+GitHub Workshop | Santiago, Chile | Organizer | A two-day workshop on basic Python and GitHub skills
 2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant/Presenter | A week-long gathering to discuss development and curation of open-source hardware for scientific research
 2017 Mar 27    | [Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
-2017 Apr 14-15 | Mini-WOW | Portland, OR | Co-organizer | Working Open Workshop: a two-day event on the practice of working openly
+2017 Apr 14-15 | Mini-WOW | Portland, OR | Co-organizer | [Working Open Workshop](https://daniellecrobinson.github.io/mini-wow-pdx/): a two-day event on the practice of working openly
 2017 Apr 22    | [March for Science](https://www.marchforscience.com/) | Washington, DC | Co-organizer | A march, rally, and teach-in in support of Science | [Open and Inclusive Science](https://science.mozilla.org/blog/sciencemarch)
+2017 May 01    | [Open Source Alliance for Open Science](https://www.eventbrite.com/e/open-source-alliance-for-open-science-forum-tickets-32172984262) | Portland, OR | Attendee | A summit for collaboration and open discussion between open source and open science projects
+2017 May 08    | [LGBTQ Tech Summit](https://lesbianswhotech.org/attendee-event/2017-dc-summit/) | Washington, DC | Attendee | A summit for queer technologists to discuss and derive ways to address specific problems facing Americans
 2017 Jun 01-02 | [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | Remote | Co-organizer | Two-day sprint to  hack on open science and open data projects
-2017 Jun 11-17 | Mozilla Fellows Offboarding | South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
-2017 Jun 25-29 | [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/ohbm2017) | Vancouver, BC | Attendee | Conference on human brain mapping
+2017 Jun 11-17 | Mozilla Fellows Offboarding | Cape Town, South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
 2017 Oct 27-29 | [Mozilla Festival](https://mozillafestival.org/) | London, UK | Wrangler | Annual Festivities
 
 #### TALKS
@@ -65,11 +74,3 @@ Date | Event | Location | Additional Media
 - [a scientist studying abroad](https://medium.com/the-traveling-scientist/a-scientist-studying-abroad-cf981de045b#.4jyjrfad1)
 - [upcoming coding sprints!](https://medium.com/the-traveling-scientist/upcoming-coding-sprints-1fc2ae3c6d24#.79zp2ezht)
 - [a few remarks on the planned march for science](https://medium.com/the-traveling-scientist/a-few-remarks-on-the-planned-march-for-science-bfcea380960#.mugnooygm)
-
-
-#### PROJECTS
-TITLE | TECH USED | DESCRIPTION
------ | --------- | ------------
-[openexp](https://github.com/openexp/openexp) | JS | an open-source desktop app for running experiments and collecting behavioral and physiological data
-[expfactory](http://expfactory.org/) | JS | an open-source environment to run and deploy behavioral experiments both locally and on the web
-[March For Science](https://www.marchforscience.com/) | email/phone/IRL | co-lead of partnerships to mobilize people and organizations to marches around the world. addressing the role of science in our lives

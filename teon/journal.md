@@ -375,6 +375,9 @@ Fellowship Journal
 ## Mar 11, 2017
 - Working Open Workshop
 
+## Mar 12, 2017
+- Flight back to SF
+
 ## Mar 13, 2017
 - Lots of MFS Partnership Stuff
 
@@ -386,6 +389,10 @@ Fellowship Journal
 ## Mar 15, 2017
 - Met with Tiago to discuss a potential workshop in Sao Paulo
 - Hanging out at Buzzfeed with their Open Lab peeps
+- Fellows Call
+
+## Mar 16, 2017
+- Flight to Santiago
 
 ## Mar 18, 2017
 - Caught up on MFS-related emails
@@ -399,3 +406,77 @@ Fellowship Journal
 ## Mar 21, 2017
 - Rejection from OpenAI
 - Workshop with Steffania at Derechos Digitales
+
+## Mar 22, 2017
+- Gathering of Open Science Hardware (GOSH) Meeting
+
+## Mar 23, 2017
+- GOSH Meeting
+- Accepted to Manylabs as a Resident!
+
+## Mar 24, 2017
+- GOSH Meeting
+
+## Mar 26, 2017
+- Flight to NYC
+
+## Mar 27, 2017
+- Supervised Neural Time Series Sprint (SNTS)
+
+## Mar 28, 2017
+- SNTS
+- Met with Ayana [IRL](https://twitter.com/ayanaeliza/status/846857785233084416)
+
+## Mar 29, 2017
+- SNTS
+- Fellows Call
+- Linguistic Prejudice, Linguistic Privilege talk
+
+## Apr 03
+- Flight to Charlotte
+
+## Apr 04
+- Call with Virginia Museum of Natural History
+- Call with Dano about project and Global Sprint prep
+
+## Apr 6
+- Flight back to SF
+
+## Apr 10
+- Coordination of MFS video release with Futurism
+- Logistics Call with Carnegie Science
+- Bill Nye Doc with The Planetary Society
+
+## Apr 11
+- Partner Call for MFS
+
+## Apr 12
+- Fellows Call
+
+## Ap 13, 2017
+- Monthly Science Lab Community Call
+- MFS-related work
+- Manylabs meeting
+
+## Apr 14, 2017
+- Flight to Portland
+- Mini-WOW opening night
+
+## Apr 15, 2017
+- #MiniWOWPDX
+- Flight back to SF
+
+## Apr 17, 2017
+- MFS planning
+- Applied to InteraXon
+- Applied to Valve
+- Filled out paperwork to potentially contract from NYC DOE
+- Finished draft of supplemental grant
+
+## Apr 18, 2017
+- MFS planning
+- MFS Organization Call
+
+## Apr 19, 2017
+- MFS planning
+- [Facebook Live](https://www.facebook.com/mozilla/videos/10155126293402381/) with Mozilla
