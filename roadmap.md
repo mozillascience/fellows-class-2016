@@ -1,10 +1,10 @@
-#Welcome to the 2016 Mozilla Fellows for Science Roadmap!
+# Welcome to the 2016 Mozilla Fellows for Science Roadmap!
 
 This roadmap provides you with a bit of structure for the fellowship. 
 
 Over the next 10 months, you'll create amazing projects, build communities, train our next set of open science leaders, and champion working open and open science in ways that we haven't yet dreamed of and we'd like to organize those thoughts, prototypes, and projects here.
 
-##TASKS/DELIVERABLES
+## TASKS/DELIVERABLES
 
 We've broken the 10 month period into phases, to help you organize your time (Explore, Prototype, Test/Share, Refine, Launch). Deliverables are for each phase of the project will be listed as that phase nears, and sorted into directories named for the phase. The deliverables will help you document your project's evolution, and make your process transparent and reusable for our wider community. 
 
@@ -12,7 +12,7 @@ We've assigned point people ([contact list here](https://github.com/mozillascien
 
 See below for a timeline of the tasks for the year. All is subject to change/updating. Again, your feedback is welcome!
 
-##CALENDAR
+## CALENDAR
 
 A general [program calendar can be found in this spreadsheet](https://docs.google.com/spreadsheets/d/1dvsLDFO42fXJyZMVd_uvQrG1ppe2aYijybM_t74LBcg/edit#gid=0), and it will likely update with more frequency relative to events.
 
@@ -37,15 +37,15 @@ A general [program calendar can be found in this spreadsheet](https://docs.googl
 |  LAUNCH   |  June 29, 2017 | Closing Dinner w/ OWF | San Francisco, USA | MSL + OWF + 2 Fellows | ~ |
 
 
-##TIMELINE/PHASES
+## TIMELINE/PHASES
 
 The phase deliverables and work periods are as follows (deliverables are due on the last day of the period).
 
-###EXPLORE (September 2016 - November 2016)
+### EXPLORE (September 2016 - November 2016)
 
 You’ll be doing project research and development planning exercises and contributing to the MSL blog throughout the EXPLORE phase.
 
-###September: 
+### September: 
 
 **Exercises** :
 
@@ -60,7 +60,7 @@ You’ll be doing project research and development planning exercises and contri
 
 	> **Calls** : Wednesday 9/21, 13:00 EST
 
-###October:
+### October:
 
 **Exercises** :
 	
@@ -76,7 +76,7 @@ You’ll be doing project research and development planning exercises and contri
 
 	> **Community Call** : 10/13, 11:00 EST
 
-###November:  
+### November:  
 
 **Exercises** :
 	
@@ -89,11 +89,11 @@ You’ll be doing project research and development planning exercises and contri
 
 	> **Calls** : Wednesday 11/2 + 11/16 + 11/30, 13:00 EST
 
-###PROTOTYPE (December 2016 - March 2017)
+### PROTOTYPE (December 2016 - March 2017)
 
 You’ll be working on testing and building out your proposed project(s) throughout the PROTOTYPE phase.
 
-###December: 
+### December: 
 
 **Exercises** :
 
@@ -105,7 +105,7 @@ You’ll be working on testing and building out your proposed project(s) through
 
 	> **Community Call** : 12/15, 11:00 EST
 
-###January: 
+### January: 
 
 **Exercises** :
 	
@@ -117,7 +117,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 	> **Calls** : Wednesday 1/11 + 1/25, 13:00 EST
 
-###February: 
+### February: 
 
 **Exercises** :
 	
@@ -131,7 +131,7 @@ You’ll be working on testing and building out your proposed project(s) through
 	
 	> **Community Call** : 2/9, 11:00 EST
 
-###March:
+### March:
 
 **Exercises** :
 	
@@ -144,11 +144,11 @@ You’ll be working on testing and building out your proposed project(s) through
 	> **Calls** : Wednesday 3/8 + 3/22, 13:00 EST
 
 
-###TEST/SHARE (April 2017 - May 2017)
+### TEST/SHARE (April 2017 - May 2017)
 
 You’ll be identify communities in which you can test and showcase your prototypes and get feedback that will inform pre-launch polishing in the TEST/SHARE phase.
 
-###April: 
+### April: 
 
 **Exercises** :
 	
@@ -163,7 +163,7 @@ You’ll be identify communities in which you can test and showcase your prototy
 	
 	> **Community Call** : 4/13, 11:00 EST
 
-###May: 
+### May: 
 
 **Exercises** :
 
@@ -174,11 +174,11 @@ You’ll be identify communities in which you can test and showcase your prototy
 	> **Calls** : Wednesday 5/3 + 5/17 + 5/31, 13:00 EST
 
 
-###REFINE (June 2017)
+### REFINE (June 2017)
 
 You’ll wrap-up your fellowship by packaging your project(s) for launch and publicity in July during the REFINE phase.
 
-###June: 
+### June: 
 
 **Exercises** :
 
@@ -193,7 +193,7 @@ You’ll wrap-up your fellowship by packaging your project(s) for launch and pub
 
 	> **Community Calls** : 6/9, 11:00 EST
 
-###LAUNCH (July 2017)
+### LAUNCH (July 2017)
 
 We'll blog, tweet, and publicize your projects throughout our network during the LAUNCH phase.
 
