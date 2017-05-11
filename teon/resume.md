@@ -34,11 +34,13 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 2017 Mar 10-11 | [Working Open Workshop](http://mozillascience.github.io/working-open-workshop/) | Montreal, QC | Mentor | A set of trainings to teach open science practice and develop projects in prep for our Global Sprint in June 2017
 2017 Mar 20-21 | Python+GitHub Workshop | Santiago, Chile | Organizer | A two-day workshop on basic Python and GitHub skills
 2017 Mar 22-25 | [Gathering of Open Science Hardware](http://openhardware.science/) | Santiago, Chile | Participant/Presenter | A week-long gathering to discuss development and curation of open-source hardware for scientific research
-2017 Mar 27    | [Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
+2017 Mar 27-31  | [Supervised Neural Time Series](https://kingjr.github.io/supervised_time_series/) | New York, NY | Co-organizer | A week-long coding sprint to improve supervised learning functionality across open-source packages
 2017 Apr 14-15 | Mini-WOW | Portland, OR | Co-organizer | [Working Open Workshop](https://daniellecrobinson.github.io/mini-wow-pdx/): a two-day event on the practice of working openly
 2017 Apr 22    | [March for Science](https://www.marchforscience.com/) | Washington, DC | Co-organizer | A march, rally, and teach-in in support of Science | [Open and Inclusive Science](https://science.mozilla.org/blog/sciencemarch)
 2017 May 01    | [Open Source Alliance for Open Science](https://www.eventbrite.com/e/open-source-alliance-for-open-science-forum-tickets-32172984262) | Portland, OR | Attendee | A summit for collaboration and open discussion between open source and open science projects
 2017 May 08    | [LGBTQ Tech Summit](https://lesbianswhotech.org/attendee-event/2017-dc-summit/) | Washington, DC | Attendee | A summit for queer technologists to discuss and derive ways to address specific problems facing Americans
+2017 May 16 | [March for Science: Scientists + Advocacy](http://www.cleoconference.org/home/program/special-events/#March) | San Jose, CA | Panelist | Discussion of grassroot organization for Science
+2017 May 19 | Makers for Global Good Summit | San Jose, CA | Participant | Summit to bring makers together from social, humanitarian, non-profit, and other organizations
 2017 Jun 01-02 | [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | Remote | Co-organizer | Two-day sprint to  hack on open science and open data projects
 2017 Jun 11-17 | Mozilla Fellows Offboarding | Cape Town, South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
 2017 Oct 27-29 | [Mozilla Festival](https://mozillafestival.org/) | London, UK | Wrangler | Annual Festivities
@@ -49,6 +51,8 @@ Date | Title (slides) | Event | Location | Additional Media
 ---- | -------------- | ----- | -------- | ----------------
 2016 Oct 28 | [Accesible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | [Pub](http://makerfaire.com/maker/entry/58916/)
 2016 Oct 29 | [Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | Mozilla Festival | London, UK | [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
+2017 May 16 | [March for Science: Scientists + Advocacy](http://www.cleoconference.org/home/program/special-events/#March) | CLEO Conference | San Jose, CA |
+
 
 #### TRAININGS
 

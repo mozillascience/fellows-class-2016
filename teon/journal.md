@@ -432,28 +432,29 @@ Fellowship Journal
 - Fellows Call
 - Linguistic Prejudice, Linguistic Privilege talk
 
-## Apr 03
+## Apr 03, 2017
 - Flight to Charlotte
 
-## Apr 04
+## Apr 04, 2017
 - Call with Virginia Museum of Natural History
 - Call with Dano about project and Global Sprint prep
 
-## Apr 6
+## Apr 06, 2017
 - Flight back to SF
+- Selected to the [LGBTQ Tech & Innovation Summit](https://lesbianswhotech.org/attendee-event/2017-dc-summit/)
 
-## Apr 10
+## Apr 10, 2017
 - Coordination of MFS video release with Futurism
 - Logistics Call with Carnegie Science
 - Bill Nye Doc with The Planetary Society
 
-## Apr 11
+## Apr 11, 2017
 - Partner Call for MFS
 
-## Apr 12
+## Apr 12, 2017
 - Fellows Call
 
-## Ap 13, 2017
+## Apr 13, 2017
 - Monthly Science Lab Community Call
 - MFS-related work
 - Manylabs meeting
@@ -480,3 +481,24 @@ Fellowship Journal
 ## Apr 19, 2017
 - MFS planning
 - [Facebook Live](https://www.facebook.com/mozilla/videos/10155126293402381/) with Mozilla
+
+## Apr 20, 2017
+- Flight to DC
+- Meeting at MFS War Room
+
+## Apr 21, 2017
+- MFS Worldwide All Hands
+- MFS dry run
+
+## Apr 22, 2017
+- March For Science!
+
+## Apr 23, 2017
+- MFS Partners Forum
+
+## Apr 24, 2017
+- Flight back to SF
+
+## Apr 25, 2017
+- MFS Follow up
+- Project planning
