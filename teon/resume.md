@@ -70,6 +70,7 @@ Date | Event | Location | Additional Media
 
 - [Introducing the 2016 Mozilla Science Fellows: Teon Brooks](https://science.mozilla.org/blog/intro-to-teon)
 - [Open and Inclusive Science at #ScienceMarch](https://science.mozilla.org/blog/sciencemarch)
+- [A Brief Share on my Mozilla Science Fellowship](https://medium.com/@teon_io/a-brief-share-on-my-mozilla-science-fellowship-9f27eae3374e)
 
 ##### [the traveling scientist](https://www.medium.com/the-traveling-scientist)
 

@@ -502,3 +502,38 @@ Fellowship Journal
 ## Apr 25, 2017
 - MFS Follow up
 - Project planning
+
+## May 01, 2017
+- Rejected from Valve
+
+## May 04, 2017
+- Flight to NYC
+- Innovention Competition at NYU
+
+## May 05, 2017
+- Finally filed my dissertation!!!
+
+## May 07, 2017
+- Bus down to DC
+- Worked on Queer Hack
+
+## May 08, 2017
+- LGBTQ Tech and Innovation Summit
+
+## May 09, 2017
+- Met with Sarah S. and visited Iron Yard Coding School
+- Flight back to SF
+
+## May 10, 2017
+- Published a brief share blog [post](https://medium.com/@teon_io/a-brief-share-on-my-mozilla-science-fellowship-9f27eae3374e) on my Fellowship experience
+
+
+## May 11, 2017
+- MFS call about organization
+- Hosted an AMA for Mozilla Fellowship #TeonMozAMA (no questions asked :/)
+
+
+## May 12, 2017
+- MFS call about satellite and national coordination
+- Lab meeting
+- Meeting with Russ
