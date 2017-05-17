@@ -39,17 +39,17 @@ Date | Event | Location | Role | Title/Descriptor | Blog (optional)
 2017 Apr 22    | [March for Science](https://www.marchforscience.com/) | Washington, DC | Co-organizer | A march, rally, and teach-in in support of Science | [Open and Inclusive Science](https://science.mozilla.org/blog/sciencemarch)
 2017 May 01    | [Open Source Alliance for Open Science](https://www.eventbrite.com/e/open-source-alliance-for-open-science-forum-tickets-32172984262) | Portland, OR | Attendee | A summit for collaboration and open discussion between open source and open science projects
 2017 May 08    | [LGBTQ Tech Summit](https://lesbianswhotech.org/attendee-event/2017-dc-summit/) | Washington, DC | Attendee | A summit for queer technologists to discuss and derive ways to address specific problems facing Americans
-2017 May 16 | [March for Science: Scientists + Advocacy](http://www.cleoconference.org/home/program/special-events/#March) | San Jose, CA | Panelist | Discussion of grassroot organization for Science
+2017 May 16 | [March for Science: Scientists + Advocacy](http://www.cleoconference.org/home/program/special-events/#March) | San Jose, CA | Panelist | Discussion of grassroots organization for Science
 2017 May 19 | Makers for Global Good Summit | San Jose, CA | Participant | Summit to bring makers together from social, humanitarian, non-profit, and other organizations
-2017 Jun 01-02 | [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | Remote | Co-organizer | Two-day sprint to  hack on open science and open data projects
-2017 Jun 11-17 | Mozilla Fellows Offboarding | Cape Town, South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
+2017 Jun 01-02 | [Mozilla Global Sprint](https://science.mozilla.org/programs/events/global-sprint-2017) | Remote | Co-organizer | Two-day sprint to hack on open science and open data projects
+2017 Jun 11-17 | Mozilla Fellows Off-boarding | Cape Town, South Africa | Attendee | WOW with the Pasteur Institute and Fellowship goodbye :(
 2017 Oct 27-29 | [Mozilla Festival](https://mozillafestival.org/) | London, UK | Wrangler | Annual Festivities
 
 #### TALKS
 
 Date | Title (slides) | Event | Location | Additional Media
 ---- | -------------- | ----- | -------- | ----------------
-2016 Oct 28 | [Accesible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | [Pub](http://makerfaire.com/maker/entry/58916/)
+2016 Oct 28 | [Accessible Future of Neuroscience](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_02_maker_faire.pdf) | World Maker Faire | New York, NY | [Pub](http://makerfaire.com/maker/entry/58916/)
 2016 Oct 29 | [Understanding your brain using open-source technology](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/slides/16_oct_29_mozfest_lightning_talk.pdf) | Mozilla Festival | London, UK | [YouTube](https://youtu.be/_NH63TeOE9c), [Zine](https://github.com/teonbrooks/fellows-class-2016/blob/master/teon/zine/teon_zine.pdf)
 2017 May 16 | [March for Science: Scientists + Advocacy](http://www.cleoconference.org/home/program/special-events/#March) | CLEO Conference | San Jose, CA |
 
@@ -59,7 +59,7 @@ Date | Title (slides) | Event | Location | Additional Media
 Date | Event | Location | Additional Media
 ---- | ----- | -------- | ----------------
 2017 Mar 05 | Building Video Games in Scratch at The MADE | Oakland, CA
-2017 Mar 20-21 | Python+GitHub Workshop at Derechos Digitales | Santiago, Chile
+2017 Mar 20-21 | Python + GitHub Workshop at Derechos Digitales | Santiago, Chile
 2017 Apr 14-15 | Mini-WOW | Portland, OR
 2017 Apr 28 | Mini-WOW | New York, NY
 

@@ -537,3 +537,12 @@ Fellowship Journal
 - MFS call about satellite and national coordination
 - Lab meeting
 - Meeting with Russ
+
+## May 15, 2017
+- MFS check-in call
+- Gave Marion a tour of Manylabs and Mozilla
+- Updated scrapbook
+- Meeting with Alex on Queer Hack
+
+## May 16, 2017
+- Panelist at CLEO Conference on Scientists + Advocacy
