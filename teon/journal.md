@@ -527,11 +527,9 @@ Fellowship Journal
 ## May 10, 2017
 - Published a brief share blog [post](https://medium.com/@teon_io/a-brief-share-on-my-mozilla-science-fellowship-9f27eae3374e) on my Fellowship experience
 
-
 ## May 11, 2017
 - MFS call about organization
 - Hosted an AMA for Mozilla Fellowship #TeonMozAMA (no questions asked :/)
-
 
 ## May 12, 2017
 - MFS call about satellite and national coordination
@@ -546,3 +544,46 @@ Fellowship Journal
 
 ## May 16, 2017
 - Panelist at CLEO Conference on Scientists + Advocacy
+
+## May 18, 2017
+- MFS check-in call
+- Applied to the Product Data Scientist at Mozilla
+- Caught up on outstanding emails
+
+## May 22, 2017
+- MFS check-in call
+
+## May 23, 2017
+- Flight to NYC
+
+## May 24, 2017
+- BIDS-MEG manuscript call
+- Fellows Call
+
+## May 25, 2017
+- MFS Debrief
+- Flight back to SF
+
+## May 30, 2017
+- Call with Dano on EEG 101
+
+## May 31, 2017
+- Kirstie's Lab Visit
+- Meeting with Marion
+
+## Jun 01, 2017
+- Mozilla Global Sprint
+
+## Jun 02, 2017
+- Mozilla Global Sprint
+
+## Jun 05, 2017
+- Lunch with Anisha
+- Worked on the sample experiment for expfactory
+
+## Jun 06, 2017
+- Lunch with Nick from Beeline Reader
+- Worked on expfactory
+
+## Jun 7, 2017
+- Worked on expfactory-experiments
