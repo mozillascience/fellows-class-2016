@@ -44,7 +44,7 @@ Mozilla Science Lab Global Sprint | Stamford, CA, USA | 1st-2nd June 2017 | Orga
 #### TALKS
 
 * *Structural brain development during adolescence and its relation to psychiatric disorders*; Department of Psychiatry, University of Edinburgh; 21st September 2016; [link to slides](https://dx.doi.org/10.6084/m9.figshare.3843405.v3)
-  * Met with Sue Fletcher-Watson, Andrew MacIntosh,  
+  * Met with Sue Fletcher-Watson, Andrew MacIntosh, Stephen Lawrie
 * *Structural brain development during adolescence and its relation to psychiatric disorders*; Department of Psychology, University of Bristol; 9th November 2016; [link to slides](https://dx.doi.org/10.6084/m9.figshare.3843405.v7)
   * Met with Jeff Bowers, Bruce Hood, Susanne Quadflieg, Rafael Carazo Salas, Kate Button
 * *Structural brain development during adolescence and its relation to psychiatric disorders*; Department of Psychiatry, University College London; 23rd November 2016; [link to slides](https://dx.doi.org/10.6084/m9.figshare.3843405.v7)
@@ -84,6 +84,18 @@ I met with or made significant connections with the following organizations and 
   * https://www.speakezee.org
 * [Joe McArthur](http://sparcopen.org/people/joseph-mcarthur/); Right to Research Coalition (SPARC)
 * [Erin McKiernan](https://emckiernan.wordpress.com/); National Autonomous University of Mexico & OpenCon organiser
+* Wellcome Trust Open Research Team
+* Armin Raznahan; NIH
+* OHBM Open Science SIG
+* OHBM Student and Postdoc SIG
+* Dylan T; University of Pennsylvania
+* Allyson Mackey; University of Pennsylvania
+* Leanne Williams; Stanford University
+* Russ Poldrack; Stanford University
+* Chris G; Stanford University
+* Vanessa; Stanford University
+*
+
 
 #### ORGANIZATION/GROUPS
 
