@@ -3,12 +3,10 @@
 ### Personal Details:
 
 #### Affiliation:
-Department of Psychiatry, University of Cambridge, Cambridge, UK
-
-Turing Institute for Data Science, London, UK
+Department of Psychiatry, University of Cambridge, Cambridge, UK and Alan Turing Institute for Data Science, London, UK
 
 #### Contact:
-* **Email**: kw401 AT cam.ac.uk
+* **Email**: [kw401@cam.ac.uk](mailto:kw401@cam.ac.uk)
 * **Twitter**: [@kirstie_j](https://twitter.com/kirstie_j)
 * **GitHub**: [@KirstieJane](https://github.com/KirstieJane)
 
@@ -20,9 +18,9 @@ As part of the 2016 Mozilla Fellows for Science program, I completed/participate
 
 Event | Location | Date | Role | Invited by
 ----- | -------- | ---- | ---- | ---------
-[The Educated Brain at School: Late Childhood and Adolescence](http://www.languagesciences.cam.ac.uk/events/the-educated-brain-late-childhood-and-adolescence) | Cambridge, UK | 27th October 2016 | Invited speaker ([slides](https://doi.org/10.6084/m9.figshare.4087509.v1)) and workshop participant ([policy brief](http://www.publicpolicy.cam.ac.uk/news/educated-brain)) |
+[The Educated Brain at School: Late Childhood and Adolescence](http://www.languagesciences.cam.ac.uk/events/the-educated-brain-late-childhood-and-adolescence) | Cambridge, UK | 27th October 2016 | :loudspeaker: Invited speaker ([slides](https://doi.org/10.6084/m9.figshare.4087509.v1)) and workshop participant ([policy brief](http://www.publicpolicy.cam.ac.uk/news/educated-brain)) | [Dr Michelle Ellefson](http://www.languagesciences.cam.ac.uk/directory/mre33@cam.ac.uk), Jane Walsh, Dervila Glynn & Charlotte Sausman
 [MozFest](https://mozillafestival.org/) | London, UK | 28th-30th October 2016 | Science space wrangler |
-[Beginners guide to version control with git workshop](https://training.csx.cam.ac.uk/bioinformatics/event/1878054) | Cambridge, UK | 2nd November 2016 | Instructor ([resources](https://kirstiejane.github.io/friendly-github-intro/)) |
+[Beginners guide to version control with git workshop](https://training.csx.cam.ac.uk/bioinformatics/event/1878054) | Cambridge, UK | 2nd November 2016 | :raising_hand: Instructor ([resources](https://kirstiejane.github.io/friendly-github-intro/)) |
 [OpenCon 2016](http://www.opencon2016.org/kirstiejane/opencon_2016_cambridge) | Washington DC, USA | 12th-14th November 2016 | Speaker ([workshop](http://sched.co/8tB1), [unconference](http://sched.co/8ss7)) and participant | Joe McArthur
 [CBU Open Science Workshop 2016](http://www.mrc-cbu.cam.ac.uk/openscience2016/) | MRC Cognition and Brain Sciences Unit, Cambridge, UK | 22nd November 2016 | Speaker  ([slides](https://dx.doi.org/10.6084/m9.figshare.4244996.v1)) | Rogier Kievit
 [OpenCon 2016 Cambridge](http://www.opencon2016.org/kirstiejane/opencon_2016_cambridge) | Moore Library, University of Cambridge, Cambridge, UK | 24th November 2016 | Organizer |
