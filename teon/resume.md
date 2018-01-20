@@ -7,7 +7,11 @@
 As part of my 2016-2017 Mozilla Fellowship for Science, here is a map of places I have traveled to during my fellowship:
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Hk9yLFn91cEpiqPcWKxOFvH5yhg" width="640" height="480"></iframe>
+<a href="https://www.google.com/maps/d/viewer?mid=1Hk9yLFn91cEpiqPcWKxOFvH5yhg&usp=sharing">
+  <img src=./mfs.png width=640 align="middle">
+</a><br><br>
+
+
 
 As part of the fellows program, I completed/participated in the following:
 
