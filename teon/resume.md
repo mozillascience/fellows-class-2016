@@ -1,14 +1,15 @@
 ## Meta Résumé
 
 ### Teon Brooks, Stanford University
-#### T: [@teon_io](https://twitter.com/teon_io)
-#### G: [@teonbrooks](https://github.com/teonbrooks)
+Twitter: [@teon_io](https://twitter.com/teon_io),
+GitHub: [@teonbrooks](https://github.com/teonbrooks),
+Web: [website](https://teonbrooks.github.io)
 
 As part of my 2016-2017 Mozilla Fellowship for Science, here is a map of places I have traveled to during my fellowship:
 
 
 <a href="https://www.google.com/maps/d/viewer?mid=1Hk9yLFn91cEpiqPcWKxOFvH5yhg&usp=sharing">
-  <img src=./mfs.png width=640 align="middle">
+  <img src=./mfs.png width=640>
 </a><br><br>
 
 
@@ -19,8 +20,7 @@ As part of the fellows program, I completed/participated in the following:
 TITLE | TECH USED | DESCRIPTION
 ----- | --------- | ------------
 [March For Science](https://www.marchforscience.com/) | email/phone/IRL | co-director of partnerships to mobilize people and organizations to marches around the world. addressing the role of science in our lives
-[openexp](https://github.com/openexp/openexp) | JS | an open-source desktop app for running experiments and collecting behavioral and physiological data
-[expfactory](http://expfactory.org/) | JS | an open-source environment to run and deploy behavioral experiments both locally and on the web
+[openexp](https://github.com/openexp/openexp) | JS | an open-source desktop app for searching and running psychology experiments
 
 
 #### EVENTS
