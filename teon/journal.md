@@ -587,3 +587,5 @@ Fellowship Journal
 
 ## Jun 7, 2017
 - Worked on expfactory-experiments
+
+Fitbit, IBM, 
